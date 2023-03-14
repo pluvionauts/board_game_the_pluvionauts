@@ -2,10 +2,10 @@
 
 ## Game overview
 
-Explore the sky as an air balloonist.
-Use your balloon to tow sky islands and shape the sky at your advantage in the search of rain.
+Explore the sky as an **air balloonist**.
+Use your balloon to **tow sky islands** and shape the sky at your advantage in **search of rain**.
 
-Answer to as much villagers request as possible to by elected the best **pluvionaut** of the country!
+Answer to as much **villagers request** as possible to by elected the **best pluvionaut** of the country!
 
 ## Game setup
 

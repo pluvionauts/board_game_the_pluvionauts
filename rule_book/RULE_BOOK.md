@@ -9,7 +9,7 @@ Answer to as much villagers request as possible to by elected the best **pluvion
 
 ## Game setup
 
-<img align="right" width="400" src="./images/setup.svg">
+<img align="right" width="500" src="./images/setup.svg">
 
 1. The box of the game serves as the board. Start by shuffling the box to generate randomly the terrain.
 2. Remove the **balloon dice** and **the villager request cards** from the box and place them near the board. Ensure that each hexagonal tile is at the center of each hexagon on the board. The 5 **mountain tiles**, the 6 **forest tiles**, the 10 **plain tiles** and the 2 **weather dices** should remain on board, placed randomly through the box shuffle.

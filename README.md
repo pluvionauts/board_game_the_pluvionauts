@@ -1,6 +1,6 @@
 # The Pluvionauts: a Free(Libre) board game
 
-![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 The official repository of the board game "The Pluvionauts".
 This repository contains the rule book and all numeric assets of "The Pluvionauts" board game project.

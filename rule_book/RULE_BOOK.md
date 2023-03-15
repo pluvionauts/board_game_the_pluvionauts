@@ -5,7 +5,7 @@
 Explore the sky as an **air balloonist**.
 Use your balloon to **tow sky islands** and shape the sky at your advantage in **search of rain**.
 
-Answer to as much **villagers request** as possible to be elected the **best pluvionaut** of the country!
+Answer to as much **villager requests** as possible to earn medals and be elected the **best pluvionaut** of the country!
 
 ## Game setup
 
@@ -18,7 +18,7 @@ The 5 **mountain tiles**, the 6 **forest tiles**, the 10 **plain tiles** and the
 4. The first player, chosen at random, takes the **balloon dice**.
 
 ![Game setup](./images/setup.svg)
-*Setup Diagram (four-player example)*
+*Diagram of the game, setup for 4 players here.*
 
 ## Villagers quest
 

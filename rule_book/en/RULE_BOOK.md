@@ -9,7 +9,7 @@ Answer to as much **villager requests** as possible to earn their support and be
 
 ## Game setup
 
-[//]: # (<img align="right" width="500" src="./images/setup.svg">)
+[//]: # (<img align="right" width="500" src="../images/setup.svg">)
 
 1. The box of the game serves as the board. Start by removing the **balloon dice**, the 12 **villager request cards**, the 3 **lighthouse buildings**, the 3 **water tower buildings** and the 6 **wall buildings** from the box. 
 The 5 **mountain tiles**, the 6 **forest tiles**, the 10 **plain tiles** and the 2 **weather dices** should remain in the box.
@@ -17,7 +17,7 @@ The 5 **mountain tiles**, the 6 **forest tiles**, the 10 **plain tiles** and the
 3. Each player receives 2 **villager request cards** and places them hidden in front of them. They can look at there own set of cards any time during the game. The remaining **villager request cards** are placed facedown near the board.
 4. The first player, chosen at random, takes the **balloon dice**.
 
-![Game setup](./images/setup.svg)
+![Game setup](../images/setup.svg)
 *Diagram of the game, setup for 4 players here.*
 
 ## Villager request

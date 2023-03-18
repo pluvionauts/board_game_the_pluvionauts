@@ -18,8 +18,8 @@ Explorez le ciel en tant que **pilote de montgolfière**. A la recherche de la p
 
 ## Missions
 
-<img  width="200" src="./images/mission_elevage.svg" alt="Exemple de mission d'élevage.">
-<img width="200" src="./images/mission_culture.svg" alt="Exemple de mission de culture.">
+<img align="left" width="200" src="./images/mission_elevage.svg" alt="Exemple de mission d'élevage.">
+<img align="right" width="200" src="./images/mission_culture.svg" alt="Exemple de mission de culture.">
 
 Le but du jeu est d'aider un maximum de villageois en accomplissant au mieux vos **missions** et être élu le meilleur **pluvionaute** du pays.
 Il existe **2** types de **missions** différentes:

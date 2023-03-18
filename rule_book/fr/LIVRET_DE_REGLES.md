@@ -32,8 +32,8 @@ Le nombre de villageois aidés est comptabilisé en fonction de l'état du plate
 <img align="right" width="140" src="./images/mission_culture.svg" alt="Exemple de mission de culture.">
 
 **Exemples:** 
-* L'image de **gauche** est un exemple de **mission d'élevage**. Indiqué par le nombre de rennes, cette mission permet d'aider 2 villageois pour chaque forêt qui compose la plus grande forêt du plateau à la fin de la partie.
-* L'image de **droite** est un exemple de **mission de culture**. Indiqué par le nombre de bûcherons, cette mission permet d'aider 3 villageois pour chaque forêt qui est sous la pluie (sans orage) à la fin de la partie.
+* L'image de **gauche** est un exemple de **mission d'élevage**. Indiqué par le nombre de rennes, cette mission permet d'aider **2 villageois** pour chaque forêt qui compose **la plus grande forêt** du plateau à la fin de la partie.
+* L'image de **droite** est un exemple de **mission de culture**. Indiqué par le nombre de bûcherons, cette mission permet d'aider **3 villageois** pour chaque forêt qui est **sous la pluie (sans orage)** à la fin de la partie.
 
 ## Règles de distance
 

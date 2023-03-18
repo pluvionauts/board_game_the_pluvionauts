@@ -17,11 +17,14 @@ Explorez le ciel en tant que **pilote de montgolfière**. A la recherche de la p
 *Représentation du jeu au début d'une partie, mis en place pour 4 joueurs ici.*
 
 ## Missions
-<p style="width:200;float:left;">
-	<img width="200" src="./images/mission_elevage.svg" alt="Exemple de mission d'élevage.">
-	
-	<i>Exemple de mission d'élevage. Indiqué par le nombre de rennes, cette mission permet d'aider 2 villageois pour chaque forêt qui compose la plus grande forêt du plateau à la fin de la partie.<\i>
-<\p>
+<div style="width:200;float:left;">
+	<p>
+		<img width="200" src="./images/mission_elevage.svg" alt="Exemple de mission d'élevage.">
+	<\p>
+	<p>
+		<i>Exemple de mission d'élevage. Indiqué par le nombre de rennes, cette mission permet d'aider 2 villageois pour chaque forêt qui compose la plus grande forêt du plateau à la fin de la partie.<\i>
+	<\p>
+<\div>
 <p align="right">
 	<img width="200" src="./images/mission_culture.svg" alt="Exemple de mission d'élevage.">
 	<en>Exemple de mission de culture. Indiqué par le nombre de bûcherons, cette mission permet d'aider 3 villageois pour chaque forêt qui est sous la pluie (sans orage) à la fin de la partie.<\en>

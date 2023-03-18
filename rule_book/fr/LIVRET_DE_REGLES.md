@@ -49,7 +49,7 @@ La distance d'une tuile adjacente est par contre dépendante du **terrain** de l
 * Une **île montagne** adjacente est à une distance de **3**.
 La distance des tuiles plus éloigné du dé est calculé en cumulant les distance des tuiles adjacente et en sélectionnant la plus petite distance pour l'atteindre depuis le dé.
 
-![Schéma de mise en place du jeu.](./images/schema_mise_en_place.svg)
+![Schéma de mise en place du jeu.](./images/schema_meteo_distance.svg)
 *Exemple de la zone d'influence d'un dé météo ![Weather die 2 icon](../images/icons/die_weather_2.svg) à gauche et d'un dé météo ![Weather die 2 icon](../images/icons/die_weather_5.svg)à droite, en appliquant les règles de distance.*
 
 Les mêmes règles de distance sont utilisés pour déterminer :

@@ -37,7 +37,7 @@ Le nombre de villageois aidés est comptabilisé en fonction de l'état du plate
 
 ## Règles de distance
 
-La météo est contrôlé par la position des dés météo, indiquant le coeur de la météo, et leur valeur, indiquant leur porté.
+La météo est contrôlé par la position des **dés météo**, indiquant le coeur des nuages, ainsi que leur **valeur**, indiquant la taille de la zone affectée.
 Par exemple, une valeur de 2 (symbol) indique que toutes les îles qui sont à une distance de **2 OU MOINS** du dé météo sont sous la pluie.
 Pour une valeur de 5 (symbol), toutes les îles qui sont à une distance de **3** sont sous la pluie (sans orage) et toutes les îles qui sont à une distance de **2 OU MOINS** sont sous l'orage. Mais attention la distance est influencée par la nature du terrain.
 

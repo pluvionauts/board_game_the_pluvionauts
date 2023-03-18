@@ -4,7 +4,7 @@
 
 Explorez le ciel en tant que **pilote de montgolfière**. A la recherche de la pluie, utilisez votre ballon pour **remorquer des îles volantes** et façonner le ciel à votre avantage !
 
-**Aidez un maximum de villageois** pour être élu meilleur **pluvionaute** du pays !
+**Aidez un maximum de villageois** pour être élu le meilleur **pluvionaute** du pays !
 
 ## Mise en place
 
@@ -86,7 +86,7 @@ Les bâtiments ont des effets différents
 
 Remarque: les murailles, empêchant les deux îles adjacentes d'être remorquées, sont donc indestructibles. Si une île est initialement adjacente à un mur ou est amenée à proximité d'un mur, elle ne pourra plus être remorqué jusqu'à la fin de la partie.
 
-## End of game
+## Fin de la partie
 
 La partie se termine au bout de **5** tours de jeu.
 

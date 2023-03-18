@@ -8,10 +8,10 @@ Explorez le ciel en tant que **pilote de montgolfière**. A la recherche de la p
 
 ## Mise en place
 
-1. La boîte du jeu sert de plateau. Commencez par retirer le **dé montgolfière** ![balloon_die_icon](../images/icons/die_balloon.svg), les **12 cartes missions**, les **3 bâtiments phare**, les **3 bâtiments château d'eau** et les **6 bâtiments muraille** de la boîte. Les 5 tuiles **montagne**, les 6 tuiles **forêt**, les 10 tuiles de **plaine** et les **2 dés météo** restent dans la boîte.
-2. Mélangez la boîte de sorte que chaque **tuile de terrain** et les **dés météo** soient placés au hasard sur le plateau. Assurez-vous ensuite que chaque tuile soit correctement placée au centre d'un emplacement hexagonal du plateau, puis placez la boîte au centre de la table.
-3. Chaque joueur reçoit **1 bâtiment muraille** ainsi que une **1 cartes mission élevage** et **1 cartes mission culture** et les place face cachée devant lui. Les joueurs peuvent regarder leur propre **missions** à tout moment pendant la partie. Les **bâtiments** restants sont placé à côté du plateau pour former une **réserve commune** de bâtiments. Les **missions** restantes ne sont pas utilisés pour cette partie.
-4. Le premier joueur, choisi au hasard, prend le **dé montgolfière**.
+1. La boîte du jeu sert de plateau. Commencez par retirer le **dé montgolfière** ![Balloon die icon](../images/icons/die_balloon.svg), les **12 cartes missions** ![Request card icon](../images/icons/card_request.svg), les **6 bâtiments muraille** ![Wall building icon](../images/icons/building_wall.svg), les **3 bâtiments château d'eau** ![Water tower building icon](../images/icons/building_water_tower.svg) et les **3 bâtiments phare** ![Lighthouse building icon](../images/icons/building_lighthouse.svg) de la boîte. Les **10 îles plaine** ![Plain island icon](../images/icons/island_plain.svg), les **6 îles forêt** ![Forest island icon](../images/icons/island_forest.svg), les **5 îles montagne** ![Mountain island icon](../images/icons/island_mountain.svg) et les **2 dés météo** ![Weather die icon](../images/icons/die_weather.svg) restent dans la boîte.
+2. Mélangez la boîte de sorte que chaque **île** et **dé météo** soient placés au hasard sur le plateau. Assurez-vous ensuite que chaque **île** soit correctement placée au centre d'un emplacement hexagonal du plateau, puis placez la boîte au centre de la table.
+3. Chaque joueur reçoit **1 bâtiment muraille** ![Wall building icon](../images/icons/building_wall.svg) et aléatoirement, une **1 mission élevage** ![Request card icon](../images/icons/card_request_livestock.svg) et une **1 mission culture** ![Request card icon](../images/icons/card_request_crop.svg) et les place face cachée devant lui. Les joueurs peuvent regarder leur propre **missions** à tout moment pendant la partie. Les **bâtiments** restants sont placé à côté du plateau pour former une **réserve commune de bâtiments**. Les **missions** restantes ne sont pas utilisés pour cette partie.
+4. Le premier joueur, choisi au hasard, prend le **dé montgolfière** ![Balloon die icon](../images/icons/die_balloon.svg).
 
 ![Game setup](../images/setup.svg)
 *Schéma de la mise en place, pour 4 joueurs ici.*
@@ -81,8 +81,8 @@ Un bâtiment **doit toujours être adjacent à une île**. À tout moment du jeu
 
 Les bâtiments ont des effets différents
 * la **muraile** empêche les deux îles adjacentes d'être remorquées. Deux cases séparés par un mur ne sont plus considérés comme adjacentes. La muraille agit donc comme une barrière pour la **météo**, le **pilotage de montgolfière** et les **régions**.
-* le **phare** protège les deux tuiles adjacentes de l'orage.
 * le **château d'eau** fournit en eau les deux tuiles adjacentes.
+* le **phare** protège les deux tuiles adjacentes de l'orage.
 
 Remarque: les murailles, empêchant les deux îles adjacentes d'être remorquées, sont donc indestructibles. Si une île est initialement adjacente à un mur ou est amenée à proximité d'un mur, elle ne pourra plus être remorqué jusqu'à la fin de la partie.
 

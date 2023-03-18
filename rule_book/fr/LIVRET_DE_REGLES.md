@@ -74,7 +74,7 @@ Pendant son tour, le joueur effectue les actions suivantes dans l'ordre :
 
 ## Bâtiments
 
-<img align="right" width="240" src="./images/schema_destruction_batiment.svg" alt="Exemple de destruction de batiment.">
+<img align="right" width="260" src="./images/schema_destruction_batiment.svg" alt="Exemple de destruction de batiment.">
 
 Les bâtiments sont placés dans les trous rectangulaires entre les cases du plateau.
 

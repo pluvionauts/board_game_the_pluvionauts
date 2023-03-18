@@ -8,7 +8,7 @@ Explorez le ciel en tant que **pilote de montgolfière**. A la recherche de la p
 
 ## Mise en place
 
-1. La boîte du jeu sert de plateau. Commencez par retirer le **dé montgolfière** (![balloon_die_icon](../images/icons/die_balloon.svg)), les **12 cartes missions**, les **3 bâtiments phare**, les **3 bâtiments château d'eau** et les **6 bâtiments muraille** de la boîte. Les 5 tuiles **montagne**, les 6 tuiles **forêt**, les 10 tuiles de **plaine** et les **2 dés météo** restent dans la boîte.
+1. La boîte du jeu sert de plateau. Commencez par retirer le **dé montgolfière** ![balloon_die_icon](../images/icons/die_balloon.svg), les **12 cartes missions**, les **3 bâtiments phare**, les **3 bâtiments château d'eau** et les **6 bâtiments muraille** de la boîte. Les 5 tuiles **montagne**, les 6 tuiles **forêt**, les 10 tuiles de **plaine** et les **2 dés météo** restent dans la boîte.
 2. Mélangez la boîte de sorte que chaque **tuile de terrain** et les **dés météo** soient placés au hasard sur le plateau. Assurez-vous ensuite que chaque tuile soit correctement placée au centre d'un emplacement hexagonal du plateau, puis placez la boîte au centre de la table.
 3. Chaque joueur reçoit **1 bâtiment muraille** ainsi que une **1 cartes mission élevage** et **1 cartes mission culture** et les place face cachée devant lui. Les joueurs peuvent regarder leur propre **missions** à tout moment pendant la partie. Les **bâtiments** restants sont placé à côté du plateau pour former une **réserve commune** de bâtiments. Les **missions** restantes ne sont pas utilisés pour cette partie.
 4. Le premier joueur, choisi au hasard, prend le **dé montgolfière**.

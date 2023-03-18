@@ -21,7 +21,7 @@ Explorez le ciel en tant que **pilote de montgolfière**. A la recherche de la p
 <figure style="float:left;">
 	<img width="200" src="./images/mission_elevage.svg" alt="Exemple de mission d'élevage.">
 	<figcaption>
-		Exemple de mission d'élevage. Indiqué par le nombre de rennes, cette mission permet d'aider **2** villageois pour chaque forêt qui compose la plus grande forêt du plateau à la fin de la partie.
+		Exemple de mission d'élevage. I
 	</figcaption>
 </figure>
 <img align="right" width="200" src="./images/mission_culture.svg">

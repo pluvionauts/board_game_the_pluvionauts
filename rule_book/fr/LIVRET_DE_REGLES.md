@@ -13,20 +13,24 @@ Explorez le ciel en tant que **pilote de montgolfière**. A la recherche de la p
 3. Chaque joueur reçoit **1 bâtiment muraille** ![Wall building icon](../images/icons/building_wall.svg) et aléatoirement, une **1 mission élevage** ![Request card icon](../images/icons/card_request_livestock.svg) et une **1 mission culture** ![Request card icon](../images/icons/card_request_crop.svg) et les place face cachée devant lui. Les joueurs peuvent regarder leur propre **missions** à tout moment pendant la partie. Les **bâtiments** restants sont placé à côté du plateau pour former une **réserve commune de bâtiments**. Les **missions** restantes ne sont pas utilisés pour cette partie.
 4. Le premier joueur, choisi au hasard, prend le **dé montgolfière** ![Balloon die icon](../images/icons/die_balloon.svg).
 
-![Game setup](../images/setup.svg)
-*Schéma de la mise en place, pour 4 joueurs ici.*
+![Schéma de mise en place du jeu.](./images/schema_mise_en_place.svg)
+*Représentation du jeu au début d'une partie, mis en place pour 4 joueurs ici.*
 
 ## Missions
 
-Le but du jeu est d'aider un maximum de villageois en validant un maximum de **missions** et être élu le meilleur **pluvionaute** du pays.
-Il existe de type de **missions** différentes:
+<img align="right" width="200" src="./images/mission_elevage.svg">
+
+Le but du jeu est d'aider un maximum de villageois en accomplissant au mieux vos **missions** et être élu le meilleur **pluvionaute** du pays.
+Il existe **2** types de **missions** différentes:
 
 * **Les missions d'élevage** : les villageois demandent la plus grande région possible d'un type de **terrain** donné (plaine, forêt ou montagne) indépendamment de la météo.
 * **Les missions de culture** : les villageois demandent un maximum de **pluie (sans orage)** sur un type de **terrain** donné (plaine, forêt ou montagne).
 
+<img align="left" width="200" src="./images/mission_culture.svg">
+
 Le nombre de villageois aidés est comptabilisé en fonction de l'état du plateau à la fin de la partie:
 * **Pour une mission d'élevage** : le joueur aide le nombre de villageois correspondants au nombre d'animaux indiqués sur la carte pour chaque **île** qui compose la plus grande **région** du type de **terrain**  indiqué.
-* **Pour une mission culture** : le joueur aide le nombre de villageois indiqués sur la carte pour chaque terrain du type indiqué qui est sous la pluie (sans orage).
+* **Pour une mission culture** : le joueur aide le nombre de villageois indiqués sur la carte pour chaque terrain du type indiqué qui est sous la **pluie (sans orage)**.
 
 ## Règles de distance
 

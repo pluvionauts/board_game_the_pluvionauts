@@ -19,14 +19,13 @@ Explorez le ciel en tant que **pilote de montgolfière**. A la recherche de la p
 ## Missions
 
 <img align="right" width="200" src="./images/mission_elevage.svg">
+<img align="left" width="200" src="./images/mission_culture.svg">
 
 Le but du jeu est d'aider un maximum de villageois en accomplissant au mieux vos **missions** et être élu le meilleur **pluvionaute** du pays.
 Il existe **2** types de **missions** différentes:
 
 * **Les missions d'élevage** : les villageois demandent la plus grande région possible d'un type de **terrain** donné (plaine, forêt ou montagne) indépendamment de la météo.
 * **Les missions de culture** : les villageois demandent un maximum de **pluie (sans orage)** sur un type de **terrain** donné (plaine, forêt ou montagne).
-
-<img align="left" width="200" src="./images/mission_culture.svg">
 
 Le nombre de villageois aidés est comptabilisé en fonction de l'état du plateau à la fin de la partie:
 * **Pour une mission d'élevage** : le joueur aide le nombre de villageois correspondants au nombre d'animaux indiqués sur la carte pour chaque **île** qui compose la plus grande **région** du type de **terrain**  indiqué.

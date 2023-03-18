@@ -74,16 +74,18 @@ Pendant son tour, le joueur effectue les actions suivantes dans l'ordre :
 
 ## Bâtiments
 
+<img align="right" width="140" src="./images/schema_destruction_batiment.svg" alt="Exemple de destruction de batiment.">
+
 Les bâtiments sont placés dans les trous rectangulaires entre les cases du plateau.
 
 Un bâtiment **doit toujours être adjacent à une île**. À tout moment du jeu, si un bâtiment n'est plus adjacent à une île, le bâtiment est **détruit** et replacé dans la **réserve commune de bâtiments**.
 
 Les bâtiments ont des effets différents
-* la **muraile** empêche les deux îles adjacentes d'être remorquées. Deux cases séparés par un mur ne sont plus considérés comme adjacentes. La muraille agit donc comme une barrière pour la **météo**, le **pilotage de montgolfière** et les **régions**.
+* la **muraille** empêche les deux îles adjacentes d'être remorquées. Deux cases séparés par un mur ne sont plus considérés comme adjacentes. La muraille agit donc comme une barrière pour la **météo**, le **pilotage de montgolfière** et les **régions**.
 * le **château d'eau** fournit en eau les deux tuiles adjacentes.
 * le **phare** protège les deux tuiles adjacentes de l'orage.
 
-*Remarque: les murailles, empêchant les deux îles adjacentes d'être remorquées, sont donc indestructibles. Si une île est initialement adjacente à un mur ou est amenée à proximité d'un mur, elle ne pourra plus être remorqué jusqu'à la fin de la partie.*
+*Remarque: les murailles, empêchant les deux îles adjacentes d'être remorquées, sont donc indestructibles. Si une île est initialement adjacente à une muraille ou est amenée à proximité d'une muraille déjà placée, elle ne pourra plus être remorqué jusqu'à la fin de la partie!*
 
 ## Influencer la météo
 

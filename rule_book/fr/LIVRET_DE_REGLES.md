@@ -38,32 +38,52 @@ Le nombre de villageois aidés est comptabilisé en fonction de l'état du plate
 ## Règles de distance
 
 La météo est contrôlé par la position des **dés météo**, indiquant le coeur des nuages, ainsi que leur **valeur**, indiquant la taille de la zone affectée.
-Par exemple, une valeur de 2 (symbol) indique que toutes les îles qui sont à une distance de **2 OU MOINS** du dé météo sont sous la pluie.
-Pour une valeur de 5 (symbol), toutes les îles qui sont à une distance de **3** sont sous la pluie (sans orage) et toutes les îles qui sont à une distance de **2 OU MOINS** sont sous l'orage. Mais attention la distance est influencée par la nature du terrain.
+Par exemple, une valeur de **2** ![Weather die 2 icon](../images/icons/die_weather_2.svg) indique que toutes les îles qui sont à une distance de **2 OU MOINS** du dé météo sont **sous la pluie**.
+Pour une valeur de **5** ![Weather die 2 icon](../images/icons/die_weather_2.svg), toutes les îles qui sont à une distance de **3** sont sous **la pluie (sans orage)** et toutes les îles qui sont à une distance de **2 OU MOINS** sont sous **l'orage**. Mais attention la distance est influencée par la nature du terrain.
 
-La tuile sur laquelle se tient le dé est considéré à une distance de 0, indépendemment du terrain (vide, plaine, forêt ou montagne).
+La tuile sur laquelle se tient le dé est considéré à une distance de **0**, indépendemment du terrain de la tuile.
 La distance d'une tuile adjacente est par contre dépendante du **terrain** de la tuile adjacente :
 * Une **tuile vide** adjacente est à une distance de **1**.
-* Une **tuile plaine** adjacente est à une distance de **1**.
-* Une **tuile forêt** adjacente est à une distance de **2**.
-* Une **tuile montagne** adjacente est à une distance de **3**.
-La distance des tuiles plus loin d'un dé est la plus petite distance pour atteindre cette tuile avec les règles de distance précédente.
+* Une **île plaine** adjacente est à une distance de **1**.
+* Une **île forêt** adjacente est à une distance de **2**.
+* Une **île montagne** adjacente est à une distance de **3**.
+La distance des tuiles plus éloigné du dé est calculé en cumulant les distance des tuiles adjacente et en sélectionnant la plus petite distance pour l'atteindre depuis le dé.
+
+![Schéma de mise en place du jeu.](./images/schema_mise_en_place.svg)
+*Exemple de la zone d'influence d'un dé météo ![Weather die 2 icon](../images/icons/die_weather_2.svg) à gauche et d'un dé météo ![Weather die 2 icon](../images/icons/die_weather_5.svg)à droite, en appliquant les règles de distance.*
 
 Les mêmes règles de distance sont utilisés pour déterminer :
 * les îles atteintes par la météo, 
-* la porté maximal de **pilotage de montgolfière** (introduit dans la prochaine section)
-* et la porté maximal de **remorquage d'île** (introduit dans la prochaine section).
+* la porté maximal de **pilotage de montgolfière** (voir ci-dessous)
+* et la porté maximal de **remorquage d'île** (voir ci-dessous).
 
 ## Déroulement du jeu
 
-Une partie se compose de plusieurs tours que les joueurs prennent l'un après l'autre dans le sens horaire.
-À tour de rôle, le joueur effectue les actions suivantes dans l'ordre :
-1. **Déploiement de la montgolfière**: lancer le **dé montgolfière** sur le plateau (voir la section **subtilités du déploiement** pour plus de détails). La position où le dé s'est arrêté représente l'endroit où votre montgolfière s'est retrouvé après le déploiement. Le nombre sur le dé représente le carburant restant pour continuer à piloter le ballon.
-2. **Pilotage du ballon**: déplacer le **dé montgolfière** **AU PLUS** jusqu'à la distance indiquée sur le dé (voir les **règles de distance** précédentes).
-3. **Island towing:** retourner le dé ballon et déplacer cette île **AU PLUS** jusqu'à la distance indiquée par le nouveau nombre sur le dé (voir les **règles de distance** précédentes). L'île remorquée ne peut que être placée sur un emplacement vide.
-4. **OPTIONNELLEMENT**, le joueur peut ensuite effectuer **UNE** des actions suivantes :
+Une partie se compose de plusieurs tours que les joueurs joue l'un après l'autre dans le sens horaire.
+
+Pendant son tour, le joueur effectue les actions suivantes dans l'ordre :
+1. **Déploiement de la montgolfière**: lancer le **dé montgolfière** ![Balloon die icon](../images/icons/die_balloon.svg) sur le plateau (voir la section **subtilités du déploiement** pour plus de détails). La position où le dé s'arrête représente l'endroit où à atterrit votre montgolfière après le déploiement. Le nombre sur le dé représente le carburant restant pour continuer à piloter la montgolfière. Si la valeur du dé indique **le dirigeable** ![Balloon die blimp icon](../images/icons/die_balloon_blimp.svg), vous choisissez la face de votre dé **AVANT** de commencer l'action de **pilotage**.
+2. **Pilotage du ballon**: déplacer le **dé montgolfière** **AU PLUS** jusqu'à la distance indiquée sur le dé (les **règles de distance** précédentes s'appliquent).
+3. **Remorquage d'île:** si le dé a pu être amené sur une île pendant la phase de pilotage, retourner le **dé montgolfière** et déplacer cette île **AU PLUS** jusqu'à la distance indiquée par le nouveau nombre sur le dé (les **règles de distance** précédentes s'appliquent). L'île remorquée ne peut pas être déplacé sur une autre île mais uniquement sur un emplacement vide.
+4. Le joueur **PEUT** ensuite effectuer **UNE** des actions suivantes s'il le souhaite :
 	* **Prendre un bâtiment** : choisir et prendre n'importe quel bâtiment disponible de la **réserve commune de bâtiments**.
-	* **Placer un bâtiment** : placer l'un de ses bâtiments sur une case disponible **adjacente au dé montgolfière**. Un bâtiment doit toujours être placé **adjacent à une île**.	
+	* **Placer un bâtiment** : placer l'un de ses bâtiments sur une case disponible **adjacente au dé montgolfière** s'il en a un. Un bâtiment doit toujours être placé **adjacent à une île**.
+
+![Schéma récapitulatif des action.](./images/schema_actions.svg)
+*Schéma récapitulatif des actions.*
+
+## Bâtiments
+
+Les bâtiments sont placés dans les trous rectangulaires entre les cases du plateau.
+
+Un bâtiment **doit toujours être adjacent à une île**. À tout moment du jeu, si un bâtiment n'est plus adjacent à une île, le bâtiment est **détruit** et replacé dans la **réserve commune de bâtiments**.
+
+Les bâtiments ont des effets différents
+* la **muraile** empêche les deux îles adjacentes d'être remorquées. Deux cases séparés par un mur ne sont plus considérés comme adjacentes. La muraille agit donc comme une barrière pour la **météo**, le **pilotage de montgolfière** et les **régions**.
+* le **château d'eau** fournit en eau les deux tuiles adjacentes.
+* le **phare** protège les deux tuiles adjacentes de l'orage.
+
+*Remarque: les murailles, empêchant les deux îles adjacentes d'être remorquées, sont donc indestructibles. Si une île est initialement adjacente à un mur ou est amenée à proximité d'un mur, elle ne pourra plus être remorqué jusqu'à la fin de la partie.*
 
 ## Influencer la météo
 
@@ -78,20 +98,7 @@ La météo est déterminée au hasard au début de la partie, mais peut être mo
 
 Lors des changements d'altitude, la valeur du dé est limité par sa valeur minimale (1 = symbole) et sa valeur maximale (6 = symbole).
 		
-Remarque : Lorsque le **dé météo** se retrouve près des limites du plateau, il devient beaucoup plus stable donc difficile à changer lors du **déploiement de la montgolfière**.
-
-## Bâtiments
-
-Les bâtiments sont placés dans les trous rectangulaires entre les cases du plateau.
-
-Un bâtiment **doit toujours être adjacent à une île**. À tout moment du jeu, si un bâtiment n'est plus adjacent à une île, le bâtiment est **détruit** et replacé dans la **réserve commune de bâtiments**.
-
-Les bâtiments ont des effets différents
-* la **muraile** empêche les deux îles adjacentes d'être remorquées. Deux cases séparés par un mur ne sont plus considérés comme adjacentes. La muraille agit donc comme une barrière pour la **météo**, le **pilotage de montgolfière** et les **régions**.
-* le **château d'eau** fournit en eau les deux tuiles adjacentes.
-* le **phare** protège les deux tuiles adjacentes de l'orage.
-
-Remarque: les murailles, empêchant les deux îles adjacentes d'être remorquées, sont donc indestructibles. Si une île est initialement adjacente à un mur ou est amenée à proximité d'un mur, elle ne pourra plus être remorqué jusqu'à la fin de la partie.
+*Remarque : Lorsque le **dé météo** se retrouve près des limites du plateau, il devient beaucoup plus stable donc difficile à changer lors du **déploiement de la montgolfière**.*
 
 ## Fin de la partie
 

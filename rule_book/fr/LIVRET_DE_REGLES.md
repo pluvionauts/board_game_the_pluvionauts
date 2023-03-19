@@ -92,9 +92,6 @@ Les bâtiments ont des effets différents
 
 ## Influencer la météo
 
-<img align="left" width="240" src="./images/schema_weather_ascend.svg" alt="Schema weather ascend.">
-<img align="right" width="240" src="./images/schema_weather_descend.svg" alt="Schema weather descend.">
-
 La météo est déterminée au hasard au début de la partie, mais peut être modifiée au cours de celle-ci :
 * un joueur peut frapper un **dé météo** en le visant pendant **le déploiement de la montgolfière**.
 * un joueur peut modifier l'altitude d'un **dé météo**:
@@ -105,6 +102,9 @@ La météo est déterminée au hasard au début de la partie, mais peut être mo
 	- Si au contraire une île est remorquée d'en dessous un dé météo, le **dé météo** reste sur place et sa valeur diminue de manière équivalente.
 
 Lors des changements d'altitude, la valeur du dé est limité par sa valeur minimale : **1** ![Weather die 1 icon](../images/icons/die_weather_1.svg),  et sa valeur maximale : **6** ![Weather die 6 icon](../images/icons/die_weather_6.svg).
+
+![Schéma récapitulatif des bâtiments.](./images/schema_weather_altitude.svg)
+*Exemples de changement d'altitude d'un dé météo.*
 		
 *Remarque : Lorsque le **dé météo** se retrouve près des limites du plateau, il devient beaucoup plus stable donc difficile à changer lors du **déploiement de la montgolfière**.*
 

@@ -92,8 +92,8 @@ Les bâtiments ont des effets différents
 
 ## Influencer la météo
 
-<img align="left" width="140" src="./images/schema_weather_ascend.svg" alt="Schema weather ascend.">
-<img align="right" width="140" src="./images/schema_weather_descend.svg" alt="Schema weather descend.">
+<img align="left" width="240" src="./images/schema_weather_ascend.svg" alt="Schema weather ascend.">
+<img align="right" width="240" src="./images/schema_weather_descend.svg" alt="Schema weather descend.">
 
 La météo est déterminée au hasard au début de la partie, mais peut être modifiée au cours de celle-ci :
 * un joueur peut frapper un **dé météo** en le visant pendant **le déploiement de la montgolfière**.

@@ -69,7 +69,7 @@ Pendant son tour, le joueur effectue les actions suivantes dans l'ordre :
 	* **Prendre un bâtiment** : choisir et prendre n'importe quel bâtiment disponible de la **réserve commune de bâtiments**.
 	* **Placer un bâtiment** : placer l'un de ses bâtiments sur une case disponible **adjacente au dé montgolfière** s'il en a un. Un bâtiment doit toujours être placé **adjacent à une île**.
 
-![Schéma récapitulatif des action.](./images/schema_actions.svg)
+![Schéma récapitulatif des actions.](./images/schema_actions.svg)
 *Schéma récapitulatif des actions.*
 
 ## Bâtiments
@@ -86,6 +86,9 @@ Les bâtiments ont des effets différents
 * le **phare** protège les deux tuiles adjacentes de l'orage.
 
 *Remarque: les murailles, empêchant les deux îles adjacentes d'être remorquées, sont donc indestructibles. Si une île est initialement adjacente à une muraille ou est amenée à proximité d'une muraille déjà placée, elle ne pourra plus être remorqué jusqu'à la fin de la partie!*
+
+![Schéma récapitulatif des bâtiments.](./images/schema_bâtiments.svg)
+*Schéma récapitulatif des bâtiments.*
 
 ## Influencer la météo
 

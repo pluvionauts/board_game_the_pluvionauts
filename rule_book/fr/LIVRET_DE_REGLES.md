@@ -87,7 +87,7 @@ Les bâtiments ont des effets différents
 
 *Remarque: les murailles, empêchant les deux îles adjacentes d'être remorquées, sont donc indestructibles. Si une île est initialement adjacente à une muraille ou est amenée à proximité d'une muraille déjà placée, elle ne pourra plus être remorqué jusqu'à la fin de la partie!*
 
-![Schéma récapitulatif des bâtiments.](./images/schema_bâtiments.svg)
+![Schéma récapitulatif des bâtiments.](./images/schema_batiments.svg)
 *Schéma récapitulatif des bâtiments.*
 
 ## Influencer la météo

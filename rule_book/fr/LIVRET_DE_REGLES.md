@@ -62,7 +62,7 @@ Les mêmes règles de distance sont utilisés pour déterminer :
 Une partie se compose de plusieurs tours que les joueurs joue l'un après l'autre dans le sens horaire.
 
 Pendant son tour, le joueur effectue les actions suivantes dans l'ordre :
-1. **Déploiement de la montgolfière**: lancer le **dé montgolfière** ![Balloon die icon](../images/icons/die_balloon.svg) sur le plateau (voir la section **subtilités du déploiement** pour plus de détails). La position où le dé s'arrête représente l'endroit où à atterrit votre montgolfière après le déploiement. Le nombre sur le dé représente le carburant restant pour continuer à piloter la montgolfière. Si la valeur du dé indique **le dirigeable** ![Balloon die blimp icon](../images/icons/die_balloon_blimp.svg), vous choisissez la face de votre dé **AVANT** de commencer l'action de **pilotage**.
+1. **Déploiement de la montgolfière**: lancer le **dé montgolfière** ![Balloon die icon](../images/icons/die_balloon.svg) sur le plateau (voir la section **subtilités du déploiement** pour plus de détails). La position où le dé s'arrête représente l'endroit où à atterrit votre montgolfière après le déploiement. Le nombre sur le dé représente le carburant restant pour continuer à piloter la montgolfière. Si la valeur du dé indique **le dirigeable** ![Balloon die blimp icon](../images/icons/die_balloon_blimp.svg), le joueur peut choisir n'importe quelle face du **dé montgolfière** **AVANT** de commencer l'action de **pilotage**.
 2. **Pilotage du ballon**: déplacer le **dé montgolfière** **AU PLUS** jusqu'à la distance indiquée sur le dé (les **règles de distance** précédentes s'appliquent).
 3. **Remorquage d'île:** si le dé a pu être amené sur une île pendant la phase de pilotage, retourner le **dé montgolfière** et déplacer cette île **AU PLUS** jusqu'à la distance indiquée par le nouveau nombre sur le dé (les **règles de distance** précédentes s'appliquent). L'île remorquée ne peut pas être déplacé sur une autre île mais uniquement sur un emplacement vide.
 4. Le joueur **PEUT** ensuite effectuer **UNE** des actions suivantes s'il le souhaite :
@@ -99,9 +99,9 @@ La météo est déterminée au hasard au début de la partie, mais peut être mo
 		* si c'est une **plaine**: +1
 		* si c'est une **forêt**: +2
 		* si c'est une **montagne**: +3
-	- Si au contraire une île est remorquée d'en dessous un dé météo, le **dé météo** reste sur place mais sa valeur diminue de manière équivalente.
+	- Si au contraire une île est remorquée d'en dessous un dé météo, le **dé météo** reste sur place et sa valeur diminue de manière équivalente.
 
-Lors des changements d'altitude, la valeur du dé est limité par sa valeur minimale (1 = symbole) et sa valeur maximale (6 = symbole).
+Lors des changements d'altitude, la valeur du dé est limité par sa valeur minimale : **1** ![Weather die 1 icon](../images/icons/die_weather_1.svg),  et sa valeur maximale : **6** ![Weather die 6 icon](../images/icons/die_weather_6.svg).
 		
 *Remarque : Lorsque le **dé météo** se retrouve près des limites du plateau, il devient beaucoup plus stable donc difficile à changer lors du **déploiement de la montgolfière**.*
 
@@ -109,8 +109,9 @@ Lors des changements d'altitude, la valeur du dé est limité par sa valeur mini
 
 La partie se termine au bout de **5** tours de jeu.
 
-Basé sur la configuration finale du plateau, chaque joueur compte ensuite le nombre de villageois qu'y ont été aidé à travers leur missions.
+Basé sur la configuration finale du plateau, chaque joueur compte ensuite le nombre de villageois qu'y ont été aidé au travers de leurs **missions**.
 Le joueur qui a aidé le plus de villageois est déclaré le meilleur **pluvionaute** du pays!
+En cas d'égalité, les joueurs partage la victoire.
 
 ## Subtilités du déploiement de montgolfière
 

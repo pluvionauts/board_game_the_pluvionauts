@@ -66,8 +66,8 @@ Pendant son tour, le joueur effectue les actions suivantes dans l'ordre :
 1. **Déploiement de la montgolfière**: lancer le **dé montgolfière** ![Balloon die icon](../images/icons/die_balloon.svg) sur le plateau (voir la section **subtilités du déploiement** pour plus de détails). La position où le dé s'arrête représente l'endroit où à atterrit votre montgolfière après le déploiement. Le nombre sur le dé représente le carburant restant pour continuer à piloter la montgolfière. Si la valeur du dé indique **le dirigeable** ![Balloon die blimp icon](../images/icons/die_balloon_blimp.svg), le joueur peut choisir n'importe quelle face du **dé montgolfière** **AVANT** de commencer l'action de **pilotage**.
 2. **Pilotage du ballon**: déplacer le **dé montgolfière** **AU PLUS** jusqu'à la distance indiquée sur le dé (les **règles de distance** précédentes s'appliquent).
 3. **Remorquage d'île:** si le dé a pu être amené sur une île pendant la phase de pilotage, retourner le **dé montgolfière** et déplacer cette île **AU PLUS** jusqu'à la distance indiquée par le nouveau nombre sur le dé (les **règles de distance** précédentes s'appliquent). L'île remorquée ne peut pas être déposé sur une autre île mais uniquement sur un emplacement vide.
-4. Le joueur **PEUT** ensuite effectuer **UNE** des actions suivantes s'il le souhaite :
-	* **Prendre un bâtiment** : choisir et prendre n'importe quel bâtiment disponible de la **réserve commune de bâtiments**.
+4. Le joueur **DOIT** ensuite effectuer **UNE** des actions suivantes **s'il le peut** :
+	* **Prendre un bâtiment** : choisir et prendre n'importe quel bâtiment disponible de la **réserve commune de bâtiments** s'il elle n'est pas vide.
 	* **Placer un bâtiment** : placer l'un de ses bâtiments sur une case disponible **adjacente au dé montgolfière** s'il en a un. Un bâtiment doit toujours être placé **adjacent à une île**.
 
 ![Schéma récapitulatif des actions.](./images/schema_actions.svg)
@@ -111,11 +111,13 @@ Lors des changements d'altitude, la valeur du dé est limité par sa valeur mini
 
 ## Fin de la partie
 
-La partie se termine au bout de **5** tours de jeu.
+La fin de la partie est déclenché lorsque un des joueurs place un bâtiment et qu'il y a un total de **8 bâtiments** sur le plateau.
+A partir de ce moment, tous les **AUTRES** joueurs jouent une dernière fois.
+Pendant ce dernier tout, **la destruction des bâtiments n'est plus autorisé** : on ne peut plus remorquer d'île qui conduirait à la destruction d'un bâtiment.
 
 Basé sur la configuration finale du plateau, chaque joueur compte ensuite le nombre de villageois qui ont été aidé au travers de leurs **missions**.
 Le joueur qui a aidé le plus de villageois est déclaré le meilleur **pluvionaute** du pays!
-En cas d'égalité, les joueurs partage la victoire.
+En cas d'égalité, les joueurs partagent la victoire.
 
 ## Subtilités du déploiement de montgolfière
 

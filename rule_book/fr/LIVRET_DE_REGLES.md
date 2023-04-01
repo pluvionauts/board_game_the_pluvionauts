@@ -98,7 +98,7 @@ Les bâtiments ont des effets sur les tuiles adjacentes :
 ## Influencer la météo
 
 La météo est déterminée au hasard au début de la partie, mais peut être modifiée au cours de celle-ci :
-* un joueur peut frapper un **dé météo** en le visant pendant **le déploiement de la montgolfière**.
+* un joueur peut bousculer un **dé météo** en le visant pendant **le déploiement de la montgolfière**.
 * un joueur peut modifier l'altitude d'un **dé météo** :
 	- Si une île est remorquée sous un **dé météo** situé sur une case vide, le **dé météo** augmente sa valeur en fonction du type de **terrain** de l'île :
 		* si c'est une **plaine** : **+1**
@@ -117,7 +117,9 @@ Lors des changements d'altitude, la valeur du dé est limitée par sa valeur min
 
 La fin de la partie est déclenchée lorsqu'un des joueurs place un bâtiment et qu'il y a un total de **8 bâtiments** sur le plateau.
 A partir de ce moment, tous les **AUTRES** joueurs jouent une dernière fois.
-Pendant ce dernier tour, **la destruction ET le placement des bâtiments ne sont plus autorisés** : on ne peut plus remorquer d'île qui conduirait à la destruction d'un bâtiment et l'action **4.** est sautée.
+Pendant ce dernier tour : 
+* **la destruction ET le placement des bâtiments ne sont plus autorisés** : on ne peut plus remorquer d'île qui conduirait à la destruction d'un bâtiment et l'action **4.** est sautée. 
+* **la météo ne peut plus changer**: les îles sous un dé météo ne peuvent plus être remorquées et un **dé météo** est remis à sa position initiale s'il est bousculé lors d'un déploiement de montgolfière.
 
 En se basant sur la configuration finale du plateau, chaque joueur compte ensuite le nombre de villageois qui ont été aidé au travers de leurs **missions**.
 Le joueur qui a aidé le plus de villageois est déclaré le meilleur **pluvionaute** du pays!

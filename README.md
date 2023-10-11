@@ -29,7 +29,7 @@ TODO: THESE FOLLOWING STEPS SHOULD BE AUTOMATED IN THE FUTURE
 6. Export everything else as a PNG file
 
 The DXF files are to be used for laser cutting.
-The PNG files are to be used for printing.
+The PNG files are to be used for color printing.
 
 ### Clean way (Recommended to contribute to this repository)
 

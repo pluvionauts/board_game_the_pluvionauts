@@ -11,7 +11,7 @@ This repository contains all numeric assets of "The Pluvionauts" board game proj
 
 Currently, the project heavily relies on:
 
-1. the software [Inkscape](https://inkscape.org/)
+1. the software [Inkscape](https://inkscape.org/) (the last version is recommended)
 2. [Inkscape Extensions to Manage Image Links](https://github.com/pluvionauts/inkscape_manage_image_links#inkscape-extensions-to-manage-image-links), a set of Inkscape extensions
 
 ## Usage

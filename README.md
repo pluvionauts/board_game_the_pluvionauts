@@ -2,7 +2,7 @@
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-**NOTE: Everything in this repository is currently WORK IN PROGRESS! A lot of changes are to be expected in the next few weeks.**
+**NOTE: Everything in this repository is currently WORK IN PROGRESS! A lot of things are not up to date. A lot of changes are to be expected in the next few weeks.**
 
 The official repository of the board game "The Pluvionauts".
 This repository contains all numeric assets of "The Pluvionauts" board game project.

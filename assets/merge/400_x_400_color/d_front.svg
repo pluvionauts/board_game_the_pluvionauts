@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="190mm"
+   viewBox="0 0 297 190"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="d_front.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.4421986"
+     inkscape:cx="418.36406"
+     inkscape:cy="84.803525"
+     inkscape:window-width="956"
+     inkscape:window-height="1037"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9021"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#ffffff" /><defs
+     id="defs2"><style
+       id="style7520"
+       transform="translate(23.7157, 9.99819)"><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.074000;
+}
+.s0 {
+stroke:#000000;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:0.144676;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:0.385802;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:0.723,0.723;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:0.144676;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+]]></style><style
+       id="style8"
+       transform="translate(23.7157, 9.99819)"><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.074000;
+}
+.s0 {
+stroke:#000000;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.072338;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:0.144676;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:0.385802;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.048225;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:0.723,0.723;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:0.144676;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+]]></style></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g9021"
+     transform="translate(184.47568,-217.40134)"><path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m -181.65734,221.80501 v -2.39779 c 0,0 0.86239,-0.0316 1.26974,0.0869 0.25804,0.0751 0.5374,0.17763 0.70832,0.385 0.0873,0.10596 0.11628,0.25574 0.12399,0.39283 0.009,0.15489 -0.0142,0.32104 -0.0894,0.45674 -0.0813,0.14677 -0.22764,0.25124 -0.36747,0.34396 -0.50026,0.33177 -1.64518,0.73236 -1.64518,0.73236 z"
+       id="path26847"
+       sodipodi:nodetypes="ccaaaaac"
+       inkscape:label="D" /><image
+       x="-62.184124"
+       y="218.49295"
+       inkscape:svg-dpi="200"
+       height="89.400063"
+       width="57.600056"
+       xlink:href="../../card/mission/forest_rain_and_region_mountain_color.svg"
+       id="image2342" /><image
+       x="-176.38426"
+       y="218.49377"
+       inkscape:svg-dpi="200"
+       height="89.400063"
+       width="57.600056"
+       xlink:href="../../card/mission/forest_rain_and_region_plain_color.svg"
+       id="image2343" /><image
+       x="-119.28407"
+       y="218.49374"
+       inkscape:svg-dpi="200"
+       height="89.400063"
+       width="57.600056"
+       xlink:href="../../card/mission/mountain_rain_and_region_forest_color.svg"
+       id="image2344" /><image
+       x="-5.0842605"
+       y="218.49382"
+       inkscape:svg-dpi="200"
+       height="89.400063"
+       width="57.600056"
+       xlink:href="../../card/mission/mountain_rain_and_region_plain_color.svg"
+       id="image2345" /><image
+       x="-99.300293"
+       y="-358.41373"
+       inkscape:svg-dpi="200"
+       height="22.917561"
+       width="20.51185"
+       xlink:href="../../cloud/fog/thickness_2o8__offset_0o08/merge_color.svg"
+       transform="scale(1,-1)"
+       id="image34707" /><image
+       x="-179.29372"
+       y="-362.88995"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/sun/thickness_2o8__offset_0o08/merge_color.svg"
+       transform="scale(1,-1)"
+       id="image34708" /><image
+       x="-159.29372"
+       y="-362.88995"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/sun/thickness_2o8__offset_0o08/merge_color.svg"
+       transform="scale(1,-1)"
+       id="image34709" /><image
+       x="-139.29372"
+       y="-362.88995"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/sun/thickness_2o8__offset_0o08/merge_color.svg"
+       transform="scale(1,-1)"
+       id="image34710" /><image
+       x="-119.29373"
+       y="-362.88995"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/sun/thickness_2o8__offset_0o08/merge_color.svg"
+       transform="scale(1,-1)"
+       id="image34711" /><image
+       x="-179.29407"
+       y="308.47388"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/rain/thickness_2o8__offset_0o08/merge_color.svg"
+       id="image34712" /><image
+       x="-159.29407"
+       y="308.47388"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/rain/thickness_2o8__offset_0o08/merge_color.svg"
+       id="image34713" /><image
+       x="-139.29407"
+       y="308.47388"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/rain/thickness_2o8__offset_0o08/merge_color.svg"
+       id="image34714" /><image
+       x="-119.29406"
+       y="308.47388"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/rain/thickness_2o8__offset_0o08/merge_color.svg"
+       id="image34715" /><image
+       x="-99.29406"
+       y="308.47388"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/rain/thickness_2o8__offset_0o08/merge_color.svg"
+       id="image34716" /><image
+       x="-79.294067"
+       y="308.47388"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/rain/thickness_2o8__offset_0o08/merge_color.svg"
+       id="image34717" /><image
+       x="-59.294075"
+       y="308.47388"
+       inkscape:svg-dpi="200"
+       height="27.458193"
+       width="20.499996"
+       xlink:href="../../cloud/rain/thickness_2o8__offset_0o08/merge_color.svg"
+       id="image34718" /><image
+       x="-79.300278"
+       y="-358.41373"
+       inkscape:svg-dpi="200"
+       height="22.917561"
+       width="20.51185"
+       xlink:href="../../cloud/fog/thickness_2o8__offset_0o08/merge_color.svg"
+       transform="scale(1,-1)"
+       id="image34719" /><image
+       x="-59.300285"
+       y="-358.41373"
+       inkscape:svg-dpi="200"
+       height="22.917561"
+       width="20.51185"
+       xlink:href="../../cloud/fog/thickness_2o8__offset_0o08/merge_color.svg"
+       transform="scale(1,-1)"
+       id="image34720" /><image
+       x="-69.42984"
+       y="355.21841"
+       inkscape:svg-dpi="200"
+       height="22.917561"
+       width="20.51185"
+       xlink:href="../../cloud/fog/thickness_2o8__offset_0o08/merge_color.svg"
+       id="image34721" /><rect
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect26846"
+       width="297"
+       height="190"
+       x="-184.47568"
+       y="217.40134" /><image
+       x="-399.57956"
+       y="-36.77763"
+       inkscape:svg-dpi="200"
+       height="41.493282"
+       width="89.400063"
+       xlink:href="../../card/forecast/irrigation_color.svg"
+       transform="rotate(-90,-1.770491,-1.015709)"
+       id="image41132" /><image
+       x="-399.34915"
+       y="4.3747787"
+       inkscape:svg-dpi="200"
+       height="49.055073"
+       width="89.400063"
+       xlink:href="../../card/helper/displacement_color.svg"
+       transform="rotate(-90,-1.7347865,-0.8204035)"
+       id="image41133" /><image
+       x="52.961147"
+       y="308.99808"
+       inkscape:svg-dpi="200"
+       height="89.400063"
+       width="57.600056"
+       xlink:href="../../card/mission/plain_rain_and_region_mountain_color.svg"
+       transform="translate(-0.945162,-1.60432)"
+       id="image41134" /><image
+       x="-156.11188"
+       y="380.36011"
+       inkscape:svg-dpi="200"
+       height="26.499872"
+       width="25.099989"
+       xlink:href="../../cloud/rain_expand/thickness_2o8/merge_color.svg"
+       transform="translate(-1.38247,-0.424133)"
+       id="image41135" /><image
+       x="-146.12029"
+       y="363.44431"
+       inkscape:svg-dpi="200"
+       height="26.499872"
+       width="25.099989"
+       xlink:href="../../cloud/rain_expand/thickness_2o8/merge_color.svg"
+       transform="translate(-1.37407,-0.208133)"
+       id="image41136" /><image
+       x="-121.49304"
+       y="363.46024"
+       inkscape:svg-dpi="200"
+       height="26.499872"
+       width="25.099989"
+       xlink:href="../../cloud/rain_expand/thickness_2o8/merge_color.svg"
+       transform="translate(-1.40137,-0.224133)"
+       id="image41137" /><image
+       x="-131.41696"
+       y="380.44788"
+       inkscape:svg-dpi="200"
+       height="26.499872"
+       width="25.099989"
+       xlink:href="../../cloud/rain_expand/thickness_2o8/merge_color.svg"
+       transform="translate(-1.47737,-0.512133)"
+       id="image41138" /><image
+       x="-89.267494"
+       y="372.62335"
+       inkscape:svg-dpi="200"
+       height="26.499872"
+       width="25.099989"
+       xlink:href="../../cloud/fog_expand/thickness_2o8/merge_color.svg"
+       transform="translate(-9.02687,-9.38713)"
+       id="image41139" /><image
+       x="-106.77967"
+       y="380.44778"
+       inkscape:svg-dpi="200"
+       height="26.499872"
+       width="25.099989"
+       xlink:href="../../cloud/rain_expand/thickness_2o8/merge_color.svg"
+       transform="translate(-1.51467,-0.512133)"
+       id="image41140" /><image
+       x="-180.57837"
+       y="380.36011"
+       inkscape:svg-dpi="200"
+       height="26.499872"
+       width="25.099989"
+       xlink:href="../../cloud/rain_expand/thickness_2o8/merge_color.svg"
+       transform="translate(-1.51567,-0.424133)"
+       id="image41141" /><image
+       x="-170.58678"
+       y="363.44431"
+       inkscape:svg-dpi="200"
+       height="26.499872"
+       width="25.099989"
+       xlink:href="../../cloud/rain_expand/thickness_2o8/merge_color.svg"
+       transform="translate(-1.50757,-0.208133)"
+       id="image41142" /><image
+       x="52.016171"
+       y="218.49352"
+       inkscape:svg-dpi="200"
+       height="89.400063"
+       width="57.600056"
+       xlink:href="../../card/mission/plain_rain_and_region_forest_color.svg"
+       id="image1" /></g></svg>

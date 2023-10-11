@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xml:space="preserve"
+   sodipodi:docname="art_back.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 334.18702 298.78501"
+   height="298.785mm"
+   width="334.18701mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns3="svglink"
+   xmlns:ns4="svglink:origin"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.289283"
+     inkscape:cx="1785.4885"
+     inkscape:cy="959.06019"
+     inkscape:window-width="1916"
+     inkscape:window-height="1037"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#ffffff" /><defs
+     id="defs2"><rect
+       x="326.97605"
+       y="108.9039"
+       width="658.87791"
+       height="120.19409"
+       id="rect3" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="614.06318"
+       height="119.8736"
+       id="rect4" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="614.06318"
+       height="119.8736"
+       id="rect5" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="788.25332"
+       height="240.68981"
+       id="rect6" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="614.06318"
+       height="119.8736"
+       id="rect8" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="790.64815"
+       height="300.91845"
+       id="rect9" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="614.06318"
+       height="119.8736"
+       id="rect10" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="807.68127"
+       height="529.88775"
+       id="rect11" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="614.06318"
+       height="119.8736"
+       id="rect12" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="807.68127"
+       height="529.88775"
+       id="rect82" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="614.06318"
+       height="119.8736"
+       id="rect83" /><rect
+       x="326.97605"
+       y="108.9039"
+       width="807.68127"
+       height="529.88775"
+       id="rect85" /></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(212.901,-11.60634)"><g
+       inkscape:label="svglink:thickness_2o8__offset_0o08/blueprint.svg"
+       ns3:href="thickness_2o8__offset_0o08/blueprint.svg"
+       ns4:x="-330.12445"
+       ns4:y="-11.732519"
+       ns3:image-svg-dpi="200"
+       ns3:image-height="304.97464"
+       ns3:image-width="340.08746"
+       id="g111"
+       transform="translate(113.304,18.72584)"><title
+   transform="translate(-330.124, -11.7325)"
+   id="title85">Exported SVG</title>&#10;&#10;<style
+   transform="translate(-330.124, -11.7325)"
+   id="style85"><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.340087;
+}
+.s0 {
+stroke:#000000;
+stroke-width:0.297133;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.297133;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.297133;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.297133;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.297133;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.198089;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.198089;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.297133;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.297133;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.198089;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.198089;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:0.594266;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:1.584710;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.198089;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.198089;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:2.971,2.971;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:0.594266;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s100 {
+stroke:#ff0000;
+stroke-width:0.500000;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+]]></style>&#10;<path
+   d="m 99.238,13.64 h 43.325 A 5.64,5.64 0 0 0 148.203,8 V 5 h -51.28 a 5.64,5.64 0 0 0 -2.82,0.756 l -13.162,7.599 a 5.64,5.64 0 0 0 -2.065,2.064 l -25.64,44.41 2.598,1.5 a 5.64,5.64 0 0 0 7.705,-2.064 L 85.201,21.744 a 5.64,5.64 0 0 1 2.065,-2.064 l 9.152,-5.284 a 5.64,5.64 0 0 1 2.82,-0.756"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path85" />&#10;<path
+   d="m 132.283,10.64 h -11.84 V 8 h 11.84 v 2.64"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path86" />&#10;<path
+   d="m 83.895,15.113 10.254,-5.92 1.32,2.287 -10.254,5.92 -1.32,-2.287"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path87" />&#10;<path
+   d="m 63.795,47.542 5.92,-10.254 2.286,1.32 -5.92,10.254 -2.286,-1.32"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path88" />&#10;<path
+   d="m 14.396,144.383 21.662,-37.521 a 5.64,5.64 0 0 0 -2.064,-7.704 l -2.598,-1.5 -25.64,44.41 A 5.64,5.64 0 0 0 5,144.888 v 15.198 a 5.64,5.64 0 0 0 0.756,2.82 l 25.64,44.41 2.598,-1.5 a 5.64,5.64 0 0 0 2.064,-7.704 L 14.396,160.591 a 5.64,5.64 0 0 1 -0.756,-2.82 v -10.568 a 5.64,5.64 0 0 1 0.756,-2.82"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path89" />&#10;<path
+   d="m 20.114,123.199 5.92,-10.253 2.286,1.32 -5.92,10.253 -2.286,-1.32"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path90" />&#10;<path
+   d="m 8,158.407 v -11.84 h 2.64 v 11.84 H 8"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path91" />&#10;<path
+   d="m 26.034,192.029 -5.92,-10.254 2.286,-1.32 5.92,10.254 -2.286,1.32"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path92" />&#10;<path
+   d="M 85.201,283.23 63.539,245.709 a 5.64,5.64 0 0 0 -7.705,-2.064 l -2.598,1.5 25.64,44.41 a 5.64,5.64 0 0 0 2.065,2.064 l 13.162,7.6 a 5.64,5.64 0 0 0 2.82,0.755 h 51.28 v -3 a 5.64,5.64 0 0 0 -5.64,-5.64 H 99.238 a 5.64,5.64 0 0 1 -2.82,-0.755 l -9.152,-5.284 a 5.64,5.64 0 0 1 -2.065,-2.065"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path93" />&#10;<path
+   d="m 69.715,267.686 -5.92,-10.253 2.286,-1.32 5.92,10.253 -2.286,1.32"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path94" />&#10;<path
+   d="m 94.149,295.781 -10.254,-5.92 1.32,-2.286 10.254,5.92 -1.32,2.286"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path95" />&#10;<path
+   d="m 132.283,296.974 h -11.84 v -2.64 h 11.84 v 2.64"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path96" />&#10;<path
+   d="m 240.849,291.334 h -43.325 a 5.64,5.64 0 0 0 -5.64,5.64 v 3 h 51.28 a 5.64,5.64 0 0 0 2.82,-0.755 l 13.162,-7.6 a 5.64,5.64 0 0 0 2.065,-2.064 l 25.64,-44.41 -2.598,-1.5 a 5.64,5.64 0 0 0 -7.705,2.064 l -21.662,37.521 a 5.64,5.64 0 0 1 -2.065,2.065 l -9.152,5.284 a 5.64,5.64 0 0 1 -2.82,0.755"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path97" />&#10;<path
+   d="m 219.645,296.974 h -11.84 v -2.64 h 11.84 v 2.64"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path98" />&#10;<path
+   d="m 256.192,289.861 -10.254,5.92 -1.32,-2.286 10.254,-5.92 1.32,2.286"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path99" />&#10;<path
+   d="m 276.293,257.433 -5.92,10.253 -2.287,-1.32 5.92,-10.253 2.287,1.32"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path100" />&#10;<path
+   d="m 325.691,160.591 -21.662,37.521 a 5.64,5.64 0 0 0 2.064,7.704 l 2.598,1.5 25.64,-44.41 a 5.64,5.64 0 0 0 0.756,-2.82 v -15.198 a 5.64,5.64 0 0 0 -0.756,-2.82 l -25.64,-44.41 -2.598,1.5 a 5.64,5.64 0 0 0 -2.064,7.704 l 21.662,37.521 a 5.64,5.64 0 0 1 0.756,2.82 v 10.568 a 5.64,5.64 0 0 1 -0.756,2.82"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path101" />&#10;<path
+   d="m 332.087,146.567 v 11.84 h -2.64 v -11.84 h 2.64"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path102" />&#10;<path
+   d="m 314.054,112.946 5.92,10.253 -2.287,1.32 -5.92,-10.253 2.287,-1.32"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path103" />&#10;<path
+   d="m 319.974,181.775 -5.92,10.254 -2.287,-1.32 5.92,-10.254 2.287,1.32"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path104" />&#10;<path
+   d="m 243.669,14.396 9.152,5.284 a 5.64,5.64 0 0 1 2.065,2.064 l 21.662,37.521 a 5.64,5.64 0 0 0 7.705,2.064 l 2.598,-1.5 -25.64,-44.41 a 5.64,5.64 0 0 0 -2.065,-2.064 L 245.984,5.756 A 5.64,5.64 0 0 0 243.164,5 h -51.28 v 3 a 5.64,5.64 0 0 0 5.64,5.64 h 43.325 a 5.64,5.64 0 0 1 2.82,0.756"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path105" />&#10;<path
+   d="m 219.645,10.64 h -11.84 V 8 h 11.84 v 2.64"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path106" />&#10;<path
+   d="m 244.618,11.48 1.32,-2.287 10.254,5.92 -1.32,2.287 -10.254,-5.92"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path107" />&#10;<path
+   d="m 270.373,37.288 5.92,10.254 -2.287,1.32 -5.92,-10.254 2.287,-1.32"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path108" />&#10;<path
+   d="m 31.446,97.571 2.684,1.55 a 5.64,5.64 0 0 1 2.065,7.705 L 14.496,144.41 a 5.64,5.64 0 0 0 -0.756,2.82 v 10.514 a 5.64,5.64 0 0 0 0.756,2.82 l 21.699,37.584 a 5.64,5.64 0 0 1 -2.065,7.705 l -2.684,1.55 21.74,37.656 2.685,-1.55 a 5.64,5.64 0 0 1 7.704,2.064 l 21.699,37.584 a 5.64,5.64 0 0 0 2.065,2.064 l 9.106,5.258 a 5.64,5.64 0 0 0 2.82,0.755 h 43.398 a 5.64,5.64 0 0 1 5.64,5.64 v 3.1 h 43.481 v -3.1 a 5.64,5.64 0 0 1 5.64,-5.64 h 43.398 a 5.64,5.64 0 0 0 2.82,-0.755 l 9.106,-5.258 a 5.64,5.64 0 0 0 2.065,-2.064 l 21.699,-37.584 a 5.64,5.64 0 0 1 7.704,-2.064 l 2.685,1.55 21.74,-37.656 -2.684,-1.55 a 5.64,5.64 0 0 1 -2.065,-7.705 l 21.699,-37.584 a 5.64,5.64 0 0 0 0.756,-2.82 V 147.23 a 5.64,5.64 0 0 0 -0.756,-2.82 l -21.699,-37.584 a 5.64,5.64 0 0 1 2.065,-7.705 l 2.684,-1.55 -21.74,-37.655 -2.685,1.55 a 5.64,5.64 0 0 1 -7.704,-2.065 L 254.813,21.817 a 5.64,5.64 0 0 0 -2.065,-2.064 l -9.106,-5.257 a 5.64,5.64 0 0 0 -2.82,-0.756 H 197.424 A 5.64,5.64 0 0 1 191.784,8.1 V 5 h -43.481 v 3.1 a 5.64,5.64 0 0 1 -5.64,5.64 H 99.265 a 5.64,5.64 0 0 0 -2.82,0.756 l -9.106,5.257 a 5.64,5.64 0 0 0 -2.065,2.064 L 63.575,59.401 a 5.64,5.64 0 0 1 -7.704,2.065 l -2.685,-1.55 -21.74,37.655"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path109" />&#10;<path
+   d="m 175.964,10.64 h -11.84 V 8 h 11.84 v 2.64"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path110" />&#10;<path
+   d="m 175.964,296.974 h -11.84 v -2.64 h 11.84 v 2.64"
+   class="s100"
+   transform="translate(-330.124,-11.7325)"
+   id="path111" />&#10;&#10;</g><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,82.167545,-44.371701)"
+       id="text3"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3);display:inline"
+       x="0"
+       y="0"><tspan
+         x="326.97656"
+         y="119.36912"
+         id="tspan2"><tspan
+           dx="0 0 0 0 0 0 0 0 0.56996679 0 0 0.56996679 0 0 0 0 0 0 0 0 0 0.56995916 0 0 0 0 0 0 0.56997442 0 0 0.56995916 0 0 0 0 0 0 0 0 0 0 0 0 0 0.56997442 0 0 0 0 0 0 0 0 0.56997442 0 0 0 0.56997442 0 0 0 0 0 0.5699439 0 0.56997442 0 0 0.5699439 0 0 0 0 0 0 0 0 0 0.5699439 0 0 0.57000494 0 0 0.5699439 0 0 0 0 0 0 0.5699439 0 0 0.5699439"
+           id="tspan1">Devenez un intrépide pilote de montgolfière, explorez les cieux à la recherche de la pluie, et utilisez </tspan></tspan><tspan
+         x="326.97656"
+         y="136.03575"
+         id="tspan4"><tspan
+           dx="0 0 0 0 0 0 0.47514486 0 0 0 0 0 0 0 0 0 0 0 0 0.47514105 0 0 0 0 0.47514105 0 0 0 0 0 0 0 0 0 0.47515631 0 0 0 0.47512579 0 0 0 0 0.47515631 0 0 0 0 0 0 0 0 0 0.47515631 0 0 0 0 0.47512579 0 0 0.47515631 0 0 0 0 0 0 0 0 0 0 0.47515631 0 0 0.47512579 0 0 0 0 0 0.47515631 0 0 0 0 0.47515631 0 0 0 0 0 0 0 0.47515631"
+           id="tspan3">votre montgolfière pour remorquer des îles volantes, tout en manipulant la météo pour bloquer vos </tspan></tspan><tspan
+         x="326.97656"
+         y="152.70237"
+         id="tspan5">adversaires et remporter la victoire !</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,88.127995,-53.195213)"
+       id="text4"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4);display:inline"
+       x="0"
+       y="0"><tspan
+         x="583.03138"
+         y="119.36912"
+         id="tspan6">Principe du jeu</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,88.127995,-24.038657)"
+       id="text5"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5);display:inline"
+       x="0"
+       y="0"><tspan
+         x="590.42068"
+         y="119.36912"
+         id="tspan7">Mise en place</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.080745,-16.32547)"
+       id="text6"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6);display:inline"
+       x="0"
+       y="0"><tspan
+         x="326.97656"
+         y="119.36912"
+         id="tspan9"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0.24790335 0 0 0.24790716 0 0 0 0 0 0.24790716 0 0 0.24789953 0 0 0 0.24790716 0 0 0 0 0 0.24790716 0 0 0 0 0 0 0 0.24790716 0 0 0.2478919 0 0 0 0 0.24792242 0 0 0 0 0 0 0 0.24792242 0 0 0.24792242 0 0 0.24792242 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2478919 0 0 0 0.24792242 0 0.24792242 0 0 0 0 0 0 0 0 0.24792242 0 0 0.24786139 0 0 0 0.24786139 0 0.24792242 0 0 0 0 0 0.24792242 0 0 0.24792242 0 0 0.24792242 0 0 0 0 0 0 0.24792242"
+           id="tspan8">Utilisez la boîte du jeu comme plateau de jeu. Retirez le Dé Montgolfière, les 6 Missions et les 2 Aides de la boîte. Les </tspan></tspan><tspan
+         x="326.97656"
+         y="136.03575"
+         id="tspan10">10 Îles Plaine, les 7 Îles Forêt, les 5 Îles Montagne et les 15 Nuages restent dans la boîte.&#10;</tspan><tspan
+         x="326.97656"
+         y="152.70237"
+         id="tspan11">&#10;</tspan><tspan
+         x="326.97656"
+         y="169.369"
+         id="tspan13"><tspan
+           dx="0 0 0 0 0 0 0 0 0 1.2077727 0 0 0 1.2077689 0 0 0 0 1.2077765 0 0 1.2077765 0 0 0 1.2077765 0 0 0 0 0 0 1.2077765 0 0 0 0 1.2077613 0 0 1.2077918 0 0 0 0 0 0 1.2077613 0 0 0 0 1.2077613 0 0 0 0 0 0 0 0 0 0 1.2077613 0 0 1.2077918 0 0 0 0 0 0 1.2077613 0 0 0 1.2078223 0 0 1.2077613 0 0 0 0 0 0 0 1.2078223 0 0 1.2077613 0 0 0 0 0 0 0 0 1.2077613 0 1.2077613 0 0 1.2077613 0 0 0 1.2078223"
+           id="tspan12">Mélangez les Îles et les Nuages dans la boîte, puis placez-les au hasard sur le plateau en veillant à ce que chaque </tspan></tspan><tspan
+         x="326.97656"
+         y="186.03563"
+         id="tspan15"><tspan
+           dx="0 0 0 0 0 0 0 0 1.7738166 0 0 0 0 1.7738242 0 0 0 0 0 0 1.7738166 0 0 0 0 1.7738166 0 0 1.7738166 0 0 0 0 0 0 0 0 0 0 0 1.7738318 0 0 0 0 0 0 0 0 0 0 1.7738013 0 0 0 0 0 0 1.7738318 0 0 1.7738318 0 0 0 0 0 1.7738013 0 0 1.7738013 0 0 0 0 0 0 1.7738013 0 0 1.7738624 0 0 1.7738624 0 0 0 0 0 0 1.7738013 0 0 0 0 0 0 1.7738013 0 0 0 0 0 0 0 0 0 0 0 1.7738013"
+           id="tspan14">élément soit centré dans un emplacement hexagonal. Placez la boîte au centre de la table. Chaque emplacement doit </tspan></tspan><tspan
+         x="326.97656"
+         y="202.70225"
+         id="tspan16">être occupé par une Île ou un Nuage.&#10;</tspan><tspan
+         x="326.97656"
+         y="219.36888"
+         id="tspan17">&#10;</tspan><tspan
+         x="326.97656"
+         y="236.0355"
+         id="tspan19"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 3.0454764 0 0 0 0 0 0 0 0 0 0 0 0 0 3.0454688 0 0 0 3.0454841 0 0 0 0 0 0 0 3.0454841 0 3.0454993 0 0 0 0 0 0 3.0454688 0 0 0 0 0 0 0 3.0454993 0 0 0 0 0 0 3.0454688 0 0 0 0 0 0 0 3.0454688 0 0 0 0 3.0454993 0 0 0 0 0 0 3.0454688 0 0 0 0 0 0 3.0454688 0 0 0 0 3.0454688 0 0 0 3.0454688 0 0 0 0 0 0 0 3.0454688"
+           id="tspan18">Distribuez aléatoirement une Mission à chaque joueur, qu'ils placent face cachée devant eux. Les joueurs peuvent </tspan></tspan><tspan
+         x="326.97656"
+         y="252.70213"
+         id="tspan20">consulter leur Mission à tout moment pendant la partie.&#10;</tspan><tspan
+         x="326.97656"
+         y="269.36876"
+         id="tspan21">&#10;</tspan><tspan
+         x="326.97656"
+         y="286.03538"
+         id="tspan22">Désignez le premier joueur au hasard, qui prend le Dé Montgolfière.</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,88.305245,38.989156)"
+       id="text7"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect8);display:inline"
+       x="0"
+       y="0"><tspan
+         x="597.74488"
+         y="119.36912"
+         id="tspan23">But du jeu</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.080745,47.01401)"
+       id="text8"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect9);display:inline"
+       x="0"
+       y="0"><tspan
+         x="326.97656"
+         y="119.36912"
+         id="tspan25"><tspan
+           style="text-align:justify"
+           id="tspan24">Le but du jeu est d'accomplir au mieux sa mission, qui comporte deux objectifs :&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="136.03575"
+         id="tspan27"><tspan
+           style="text-align:justify"
+           id="tspan26">&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="152.70237"
+         id="tspan29"><tspan
+           style="text-align:justify"
+           id="tspan28">Créer la plus grande culture en rassemblant un maximum de produits de culture dans une même région.&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="169.369"
+         id="tspan31"><tspan
+           style="text-align:justify"
+           id="tspan30">Créer le plus grand troupeau en rassemblant un maximum d'animaux d'élevage dans une même région.&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="186.03563"
+         id="tspan33"><tspan
+           style="text-align:justify"
+           id="tspan32">Une région est constituée d'un groupe d'îles adjacentes du même type (Plaine, Forêt ou Montagne).&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="202.70225"
+         id="tspan35"><tspan
+           style="text-align:justify"
+           id="tspan34">&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="219.36888"
+         id="tspan37"><tspan
+           style="text-align:justify"
+           id="tspan36">Les points gagnés pour chaque objectif de mission sont calculés en fonction de l'état du plateau à la fin de la partie :&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="236.0355"
+         id="tspan39"><tspan
+           style="text-align:justify"
+           id="tspan38">&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="252.70213"
+         id="tspan41"><tspan
+           dx="0 0 0 0 0 1.9128737 0 0 0 0 0 0 0 0 0 0 1.9128699 0 0 0 0 0 0 0 0 0 0 1.9128699 0 0 0 0 0 0 1.9128699 0 0 0 0 0 0 1.9128699 0 0 0 0 0 1.9128699 0 0 1.9128699 0 0 0 0 0 1.9128699 0 0 0 0 1.9128699 0 0 0 0 0 0 1.9128699 0 0 0 0 0 0 1.9128394 0 0 0 1.9129004 0 0 0 0 0 0 0 1.9129004 0 0 1.9128394 0 0 0 0 1.9128394 0 0 0 0 0 1.9128394 0 0 0 0 0 0 0 0 1.9129004"
+           style="text-align:justify"
+           id="tspan40">Pour l'objectif d'élevage, chaque joueur gagne un point pour chaque animal qui compose le plus grand troupeau de </tspan></tspan><tspan
+         x="326.97656"
+         y="269.36876"
+         id="tspan43"><tspan
+           style="text-align:justify"
+           id="tspan42">l'animal indiqué dans sa mission.&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="286.03538"
+         id="tspan45"><tspan
+           dx="0 0 0 0 0 1.0843101 0 0 0 0 0 0 0 0 0 0 1.0843101 0 0 1.0843101 0 0 0 0 0 0 0 0 1.0843024 0 0 0 0 0 0 1.0843024 0 0 0 0 0 0 1.0843177 0 0 0 0 0 1.0843177 0 0 1.0843177 0 0 0 0 0 1.0843177 0 0 0 0 1.0842872 0 0 0 0 0 0 1.0843177 0 0 0 0 0 0 0 1.0843482 0 0 0 1.0842872 0 0 0 0 0 0 0 1.0842872 0 0 1.0843482 0 0 0 0 1.0842872 0 0 0 0 0 0 1.0843482 0 0 0 0 0 0 0 1.0842872"
+           style="text-align:justify"
+           id="tspan44">Pour l'objectif de culture, chaque joueur gagne un point pour chaque produit qui compose la plus grande culture du </tspan></tspan><tspan
+         x="326.97656"
+         y="302.70201"
+         id="tspan47"><tspan
+           style="text-align:justify"
+           id="tspan46">produit indiqué dans sa mission.&#10;</tspan></tspan><tspan
+         x="326.97656"
+         y="319.36863"
+         id="tspan49"><tspan
+           dx="0 0 0 0.39033842 0 0 0 0 0 0.39033651 0 0 0 0.39034033 0 0 0 0 0 0 0.3903327 0 0 0.3903327 0 0 0.3903327 0 0 0 0 0 0 0 0.3903327 0 0 0 0.3903327 0 0 0.39034796 0 0 0 0 0 0.39034796 0 0 0.39031744 0 0 0 0.39031744 0 0 0 0 0.39034796 0 0 0 0 0 0 0 0 0 0 0.39034796 0 0 0.39031744 0 0 0 0 0 0 0.39037848 0 0 0 0 0.39031744 0 0 0.39037848 0 0 0 0 0 0.39031744 0 0 0.39037848 0 0 0 0 0.39031744 0 0 0 0 0 0.39031744 0 0.39031744 0 0 0.39031744 0 0 0 0.39037848"
+           style="text-align:justify"
+           id="tspan48">Le total des points de la mission est la somme de ces deux objectifs. Le joueur avec le score le plus élevé à la fin de </tspan></tspan><tspan
+         x="326.97656"
+         y="336.03526"
+         id="tspan51"><tspan
+           style="text-align:justify"
+           id="tspan50">la partie remporte la victoire.</tspan></tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,88.127995,125.81922)"
+       id="text10"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10);display:inline"
+       x="0"
+       y="0"><tspan
+         x="569.97803"
+         y="119.36912"
+         id="tspan52">Déroulement du jeu</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.080745,133.67364)"
+       id="text11"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;display:inline;shape-inside:url(#rect11)"
+       x="0"
+       y="0"><tspan
+         x="326.97656"
+         y="119.36912"
+         id="tspan53">Le jeu se compose de plusieurs tours, les joueurs jouant chacun leur tour dans le sens horaire.&#10;</tspan><tspan
+         x="326.97656"
+         y="136.03575"
+         id="tspan54">&#10;</tspan><tspan
+         x="326.97656"
+         y="152.70237"
+         id="tspan55">Pendant son tour, le joueur effectue les actions suivantes dans l'ordre :&#10;</tspan><tspan
+         x="326.97656"
+         y="169.369"
+         id="tspan56">&#10;</tspan><tspan
+         x="326.97656"
+         y="186.03563"
+         id="tspan58"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 3.0668654 0 3.0668616 0 0 0 0 0 0 3.0668616 0 0 3.0668616 0 0 3.0668616 0 0 0 0 0 0 0 0 0 0 0 0 3.0668616 0 0 0 3.0668616 0 0 3.0668616 0 0 0 0 0 0 0 0 3.0668616 0 0 0 0 0 0 0 0 0 0 0 0 0 3.0668616 0 0 3.0668616 0 0 3.0668921 0 0 3.0668921 0 0 0 0 0 0 0 0 3.0668921 0 0 0 0 0 0 0 0 0 0 3.0668921 0 0 0 0 0 0 0 0 0 3.0668921 0 0 3.0668921"
+           id="tspan57">Décollage : Lancez le Dé Montgolfière sur le plateau. L'emplacement où le dé atterrit représente l'endroit où votre </tspan></tspan><tspan
+         x="326.97656"
+         y="202.70225"
+         id="tspan60"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 2.7919593 0 2.7919593 0 0 0 0 0 0 0 2.7919593 0 0 0 0 0 2.7919593 0 0 2.7919593 0 0 0 0 0 0 0 0 0 0 2.7919593 0 0 2.7919288 0 0 0 0 0 0 2.7919593 0 0 0 0 0 0 0 2.7919593 0 0 0 2.7919593 0 0 2.7919593 0 0 2.7919593 0 0 0 0 0 0 0 0 0 0 2.7919898 0 0 0 2.7919898 0 0 0 0 0 0 2.7919288 0 0 2.7919288 0 0 0 0 0 0 0 0 0 0 0 2.7919288 0 0 2.7919288"
+           id="tspan59">montgolfière a atterri après le décollage. Le nombre indiqué sur le dé représente les Points de Déplacement de la </tspan></tspan><tspan
+         x="326.97656"
+         y="219.36888"
+         id="tspan62"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.5184455 0 0 1.5184455 0 0 1.5184455 0 0 1.5184455 0 0 0 0 0 0 0 1.5184608 0 0 0 1.5184608 0 0 0 0 0 0 0 0 0 0 0 0 1.5184608 0 0 1.5184608 0 0 0 0 0 0 1.5184608 0 0 0 0 1.5184302 0 0 0 0 0 0 0 1.5184608 0 0 0 0 0 0 0 0 0 1.5184302 0 0 0 0 0 0 1.5184302 0 0 0 0 1.5184913 0 0 1.5184913 0 0 1.5184302 0 0 0 0 0 0 0 0 0 0 0 0 1.5184913 0 0 0 0 0 1.5184302"
+           id="tspan61">montgolfière. Si le dé affiche &quot;Le Dirigeable&quot;, le joueur peut choisir n'importe quelle face du Dé Montgolfière AVANT le </tspan></tspan><tspan
+         x="326.97656"
+         y="236.0355"
+         id="tspan63">déplacement.&#10;</tspan><tspan
+         x="326.97656"
+         y="252.70213"
+         id="tspan64">&#10;</tspan><tspan
+         x="326.97656"
+         y="269.36876"
+         id="tspan66"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 4.5674796 0 4.5674872 0 0 0 0 0 0 0 0 4.5674872 0 0 4.567472 0 0 4.5674872 0 0 0 0 0 0 0 0 0 0 0 0 4.567472 0 0 4.5675025 0 0 0 0 4.567472 0 0 4.5675025 0 0 0 0 4.567472 0 0 4.5675025 0 0 0 0 0 0 0 0 0 4.5675025 0 0 0 4.5675025 0 0 0 0 0 0 4.5675025 0 0 4.5675025 0 0 0 0 0 0 0 0 0 0 0 0 4.5675025 0 0 4.5675025 0 0 0 0 4.5674415"
+           id="tspan65">Déplacement : Déplacez le Dé Montgolfière de case en case en utilisant vos Points de Déplacement. Le coût du </tspan></tspan><tspan
+         x="326.97656"
+         y="286.03538"
+         id="tspan67">déplacement dépend du type de case vers laquelle vous vous déplacez :&#10;</tspan><tspan
+         x="326.97656"
+         y="302.70201"
+         id="tspan68">&#10;</tspan><tspan
+         x="326.97656"
+         y="319.36863"
+         id="tspan69">3 Points de Déplacement pour une Île Montagne&#10;</tspan><tspan
+         x="326.97656"
+         y="336.03526"
+         id="tspan70">2 Points de Déplacement pour une Île Forêt&#10;</tspan><tspan
+         x="326.97656"
+         y="352.70189"
+         id="tspan71">1 Point de Déplacement pour une Plaine ou en l'absence d'îles&#10;</tspan><tspan
+         x="326.97656"
+         y="369.36851"
+         id="tspan72">Vous n'êtes pas obligé d'utiliser tous les Points de Déplacement.&#10;</tspan><tspan
+         x="326.97656"
+         y="386.03514"
+         id="tspan74"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0.47272253 0 0.47273016 0 0 0.47272253 0 0 0.47272253 0 0 0.47273016 0 0 0 0 0 0 0 0 0 0 0 0 0.47273016 0 0 0.4727149 0 0 0 0 0 0 0.47274542 0 0 0 0.4727149 0 0 0 0.4727149 0 0 0 0.4727149 0 0 0.47274542 0 0 0.47274542 0 0 0 0 0 0.4727149 0 0 0 0 0 0.4727149 0 0 0.47277594 0 0 0 0 0 0 0 0 0 0 0 0 0.4727149 0 0 0 0 0 0 0 0 0 0.4727149 0 0 0.47277594 0 0 0.47277594"
+           id="tspan73">Arrimage : Si le Dé Montgolfière se trouve sur une Île ou un Nuage après le déplacement, retournez le Dé Montgolfière </tspan></tspan><tspan
+         x="326.97656"
+         y="402.70176"
+         id="tspan75">(en retournant la face du dessous vers le haut). L'île ou le Nuage est maintenant attaché à votre montgolfière.&#10;</tspan><tspan
+         x="326.97656"
+         y="419.36839"
+         id="tspan76">&#10;</tspan><tspan
+         x="326.97656"
+         y="436.03502"
+         id="tspan78"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0.34621954 0 0.34621191 0 0 0 0 0 0 0 0 0.34621954 0 0.34621954 0 0 0 0 0 0 0 0.34621954 0 0 0.34620428 0 0 0.34621954 0 0 0 0 0 0 0 0 0 0 0 0 0.34621954 0 0 0.34621954 0 0 0 0 0 0 0 0 0 0.34621954 0 0 0 0.34621954 0 0 0 0 0 0 0.34618902 0 0 0.34618902 0 0 0 0 0 0 0 0 0 0 0 0.34618902 0 0 0 0 0 0 0 0 0.34618902 0 0 0 0.34625006 0 0 0.34625006 0 0 0 0 0 0 0 0 0.34618902"
+           id="tspan77">Remorquage : Déplacez à nouveau le Dé Montgolfière en utilisant les Points de Déplacement indiqués par la nouvelle face </tspan></tspan><tspan
+         x="326.97656"
+         y="452.70164"
+         id="tspan80"><tspan
+           dx="0 0 0 2.0409122 0 0 0 2.0409141 0 0 2.0409141 0 0 0 0 0 0 0 2.0409064 0 0 0 2.0409064 0 0 0 0 0 2.0409217 0 0 0 0 0 0 2.0409064 0 0 2.0409217 0 0 0 0 0 0 0 0 0 0 0 0 2.0408912 0 0 0 0 2.0409217 0 0 2.0409217 0 0 2.0409217 0 0 0 0 0 0 0 0 0 0 0 0 2.0408912 0 0 0 0 0 2.0409522 0 0 2.0408912 0 0 2.0409522 0 0 0 0 0 2.0408912 0 0 0 0 0 0 0 2.0408912 0 0 0 2.0409522"
+           id="tspan79">du Dé, en suivant les mêmes règles de déplacement. Lors de ce déplacement, l'île ou le Nuage attaché est également </tspan></tspan><tspan
+         x="326.97656"
+         y="469.36827"
+         id="tspan81">déplacé avec le Dé Montgolfière.&#10;</tspan><tspan
+         x="326.97656"
+         y="486.03489"
+         id="tspan82">&#10;</tspan><tspan
+         x="326.97656"
+         y="502.70152"
+         id="tspan84"><tspan
+           dx="0 0 0 0.64769697 0 0 0 0.64769506 0 0 0 0.64769888 0 0 0 0.64769506 0 0 0 0 0 0 0 0 0 0 0.64770269 0 0 0.64770269 0 0 0 0 0 0 0.64770269 0 0 0 0 0.64770269 0 0 0 0 0 0 0 0 0.64770269 0 0 0 0.64767218 0 0 0 0 0 0 0 0 0 0 0 0.64767218 0 0 0 0.64770269 0 0 0 0.64770269 0 0 0 0 0.64770269 0 0 0 0.64770269 0 0 0 0 0 0 0 0.64770269 0 0 0 0.64770269 0 0 0 0.64770269 0 0 0 0 0 0.64770269 0 0 0 0 0.64770269 0 0 0.64770269"
+           id="tspan83">Si une Île est remorquée, le joueur doit terminer son déplacement sur une case non occupée par une autre île. Si cette </tspan></tspan><tspan
+         x="326.97656"
+         y="519.36815"
+         id="tspan85">case est occupée par un Nuage, placez le Nuage au-dessus de l'île.&#10;</tspan><tspan
+         x="326.97656"
+         y="536.03477"
+         id="tspan87"><tspan
+           dx="0 0 0 0.54220152 0 0 0.54220343 0 0 0 0 0 0.5421958 0 0 0 0.54220343 0 0 0 0 0 0 0 0 0 0.54220343 0 0 0.54220343 0 0 0 0.54220343 0 0 0 0 0 0.54217291 0 0.54220343 0 0 0.54220343 0 0 0 0.54220343 0 0 0.54220343 0 0 0 0 0 0 0 0 0 0 0 0 0.54220343 0 0 0.54220343 0 0 0 0.54220343 0 0 0 0 0 0 0 0 0.54217291 0 0 0 0 0 0.54223394 0 0 0 0.54223394 0 0 0 0 0 0.54223394 0 0 0 0 0 0 0 0 0 0 0 0 0 0.54223394 0 0 0 0 0.54217291 0 0 0 0 0.54223394"
+           id="tspan86">Si un Nuage est remorqué, il est Ancré à la fin du déplacement, ce qui signifie qu'il est placé verticalement dans l'un des </tspan></tspan><tspan
+         x="326.97656"
+         y="552.7014"
+         id="tspan88">espaces adjacents à la tuile occupée par le Dé Montgolfière.</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,88.127995,262.68776)"
+       id="text9"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect12);display:inline"
+       x="0"
+       y="0"><tspan
+         x="573.45784"
+         y="119.36912"
+         id="tspan89">Effets des Nuages</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.080745,269.64321)"
+       id="text82"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;display:inline;shape-inside:url(#rect82)"
+       x="0"
+       y="0"><tspan
+         x="326.97656"
+         y="119.36912"
+         id="tspan90">Lorsqu'un Nuage est Ancré, un pion Météo correspondant au Nuage est placé immédiatement.&#10;</tspan><tspan
+         x="326.97656"
+         y="136.03575"
+         id="tspan91">&#10;</tspan><tspan
+         x="326.97656"
+         y="152.70237"
+         id="tspan92">La Pluie augmente la production de cultures des Îles adjacentes de 1, mais diminue leur production d'animaux de 1.&#10;</tspan><tspan
+         x="326.97656"
+         y="169.369"
+         id="tspan93">Le Beau Temps augmente la production d'animaux des Îles adjacentes de 1, mais diminue leur production de cultures de 1.&#10;</tspan><tspan
+         x="326.97656"
+         y="186.03563"
+         id="tspan95"><tspan
+           dx="0 0 0 0.08698225 0 0 0 0 0 0 0 0 0 0 0.086980343 0 0 0 0 0 0 0 0 0.086987972 0 0 0.086972713 0 0 0 0 0 0 0 0 0 0 0 0.086987972 0 0 0 0.087003231 0 0 0 0 0.086972713 0 0 0 0 0 0 0 0 0 0 0 0.087003231 0 0 0.086972713 0 0 0.086972713 0 0 0 0 0 0 0 0 0 0 0.086972713 0 0 0 0.086972713 0 0 0 0 0 0 0 0 0.086972713 0 0.087033749 0 0 0 0.086972713 0 0 0 0 0.086972713 0 0 0 0 0 0.086972713 0 0 0 0.087033749 0 0 0 0.086972713 0 0 0 0 0.087033749"
+           id="tspan94">Le Brouillard interdit le déplacement des Îles adjacentes. Si le Brouillard est adjacent à une case vide, une île peut encore </tspan></tspan><tspan
+         x="326.97656"
+         y="202.70225"
+         id="tspan96">y être placée, mais elle ne pourra plus être déplacée par la suite.&#10;</tspan><tspan
+         x="326.97656"
+         y="219.36888"
+         id="tspan97">&#10;</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,88.127995,309.38549)"
+       id="text83"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect83);display:inline"
+       x="0"
+       y="0"><tspan
+         x="589.31066"
+         y="119.36912"
+         id="tspan98">Fin de partie</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.080745,318.34322)"
+       id="text85"
+       style="font-size:13.3333px;line-height:1.25;font-family:Tibet;-inkscape-font-specification:Tibet;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;display:inline;shape-inside:url(#rect85)"
+       x="0"
+       y="0"><tspan
+         x="326.97656"
+         y="119.36912"
+         id="tspan100"><tspan
+           dx="0 0 0 0.37285185 0 0 0 0.37284994 0 0 0.37284994 0 0 0.37284613 0 0 0 0 0 0 0.37285376 0 0 0 0.37284613 0 0 0 0 0 0 0 0 0 0 0.37286139 0 0 0 0.37286139 0 0 0 0.37283087 0 0 0.37286139 0 0 0 0 0 0 0.37286139 0 0 0 0.37286139 0 0 0 0.37286139 0 0 0 0 0 0 0 0.37283087 0 0 0 0 0 0 0 0 0.37286139 0 0 0.37286139 0 0 0 0 0.37286139 0 0 0.37286139 0 0 0 0 0 0 0.37286139 0 0 0.37280035 0 0 0.37286139 0 0 0 0 0 0 0.37286139 0 0 0 0 0 0.37286139"
+           id="tspan99">La fin de la partie est déclenchée dès que 10 Nuages ont été Ancrés. Terminez le tour en cours, et la partie prend fin </tspan></tspan><tspan
+         x="326.97656"
+         y="136.03575"
+         id="tspan101">une fois que le dernier joueur (celui situé à la droite du premier joueur) a joué son tour.&#10;</tspan><tspan
+         x="326.97656"
+         y="152.70237"
+         id="tspan102">&#10;</tspan><tspan
+         x="326.97656"
+         y="169.369"
+         id="tspan104"><tspan
+           dx="0 0 0 0 0 0 0 0 0 1.9359679 0 0 0 1.9359717 0 0 0 0 0 0 0 0 1.9359717 0 0 1.9359565 0 0 0 0 0 0 1.9359717 0 0 0 0 0 0 1.9359717 0 0 0 0 1.9359717 0 0 0 0 0 0 0 0 0 0 1.9359717 0 0 1.9359717 0 0 0 1.9359717 0 0 0 0 0 0 1.9359717 0 0 0 0 1.9359717 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.9359717 0 0 1.9359717 0 0 0 0 0 0 0 0 0 1.9359717 0 0 0 0 0 0 0 1.9359717 0 0 0 0 0 0 0 0 0 0 1.9359717"
+           id="tspan103">Ensuite, les Missions de chaque joueur sont dévoilées, et les points sont comptabilisés. Si plusieurs joueurs obtiennent le </tspan></tspan><tspan
+         x="326.97656"
+         y="186.03563"
+         id="tspan105">même nombre de points, ils partagent la victoire.&#10;</tspan><tspan
+         x="326.97656"
+         y="202.70225"
+         id="tspan106">&#10;</tspan></text></g></svg>

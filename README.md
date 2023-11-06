@@ -2,7 +2,7 @@
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-**NOTE: Everything in this repository is currently WORK IN PROGRESS! A lot of changes are to be expected in the next few weeks.
+**NOTE: Everything in this repository is currently WORK IN PROGRESS! A lot of things are not up to date. A lot of changes are to be expected in the next few weeks.**
 
 The official repository of the board game "The Pluvionauts".
 This repository contains all numeric assets of "The Pluvionauts" board game project.
@@ -11,7 +11,7 @@ This repository contains all numeric assets of "The Pluvionauts" board game proj
 
 Currently, the project heavily relies on:
 
-1. the software [Inkscape](https://inkscape.org/)
+1. the software [Inkscape](https://inkscape.org/) (the last version is recommended)
 2. [Inkscape Extensions to Manage Image Links](https://github.com/pluvionauts/inkscape_manage_image_links#inkscape-extensions-to-manage-image-links), a set of Inkscape extensions
 
 ## Usage
@@ -29,7 +29,7 @@ TODO: THESE FOLLOWING STEPS SHOULD BE AUTOMATED IN THE FUTURE
 6. Export everything else as a PNG file
 
 The DXF files are to be used for laser cutting.
-The PNG files are to be used for printing.
+The PNG files are to be used for color printing.
 
 ### Clean way (Recommended to contribute to this repository)
 

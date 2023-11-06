@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="15.698mm"
-   height="30.42mm"
-   viewBox="0 0 15.698 30.42"
+   width="15.752mm"
+   height="30.620001mm"
+   viewBox="0 0 15.752 30.620001"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="merge.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.5255332"
-     inkscape:cx="26.737181"
-     inkscape:cy="69.163121"
+     inkscape:zoom="5.1177173"
+     inkscape:cx="52.660197"
+     inkscape:cy="93.694116"
      inkscape:window-width="1916"
      inkscape:window-height="1037"
      inkscape:window-x="0"
@@ -47,124 +47,122 @@
        ns4:y="105.13503"
        id="g37362"><title
    transform="translate(-84.5025, 105.135)"
-   id="title4586">Exported SVG</title>
-
-<style
+   id="title1">Exported SVG</title>&#10;&#10;<style
    transform="translate(-84.5025, 105.135)"
-   id="style4588"><![CDATA[
+   id="style1"><![CDATA[
 polygon {
 shape-rendering:crispEdges;
-stroke-width:0.039920;
+stroke-width:0.040120;
 }
 .s0 {
 stroke:#000000;
-stroke-width:0.050592;
+stroke-width:0.051139;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s1 {
 stroke:#000000;
-stroke-width:0.050592;
+stroke-width:0.051139;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s2 {
 stroke:#19b219;
-stroke-width:0.050592;
+stroke-width:0.051139;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s3 {
 stroke:#7f4c00;
-stroke-width:0.050592;
+stroke-width:0.051139;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s4 {
 stroke:#00cc00;
-stroke-width:0.050592;
+stroke-width:0.051139;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s5 {
 stroke:#000000;
-stroke-width:0.033728;
+stroke-width:0.034093;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s6 {
 stroke:#ff19ff;
-stroke-width:0.033728;
+stroke-width:0.034093;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s7 {
 stroke:#ff0000;
-stroke-width:0.050592;
+stroke-width:0.051139;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s8 {
 stroke:#ffff00;
-stroke-width:0.050592;
+stroke-width:0.051139;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s9 {
 stroke:#001919;
-stroke-width:0.033728;
+stroke-width:0.034093;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sa {
 stroke:#006666;
-stroke-width:0.033728;
+stroke-width:0.034093;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sb {
 stroke:#00ffff;
-stroke-width:0.101185;
+stroke-width:0.102278;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sc {
 stroke:#ff0000;
-stroke-width:0.269826;
+stroke-width:0.272743;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sd {
 stroke:#191919;
-stroke-width:0.033728;
+stroke-width:0.034093;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .se {
 stroke:#000000;
-stroke-width:0.033728;
+stroke-width:0.034093;
 stroke-linecap:round;
 stroke-linejoin:round;
-stroke-dasharray:0.506,0.506;
+stroke-dasharray:0.511,0.511;
 fill:none;
 }
 .sf {
 stroke:#000000;
-stroke-width:0.101185;
+stroke-width:0.102278;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
@@ -176,11 +174,8 @@ stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
-]]></style>
-<path
-   d="m 5,7.96 v 24 h 0.22 a 0.75,0.75 0 0 0 0.65,-0.375 0.75,0.75 0 0 1 0.798,-0.36 0.75,0.75 0 0 1 0.595,0.643 0.75,0.75 0 0 1 -0.419,0.768 0.75,0.75 0 0 0 -0.424,0.619 l -0.044,0.58 a 0.75,0.75 0 0 0 0.006,0.169 l 0.041,0.277 a 0.75,0.75 0 0 0 0.742,0.639 h 4.513 a 0.75,0.75 0 0 0 0.748,-0.693 L 12.5,33.255 a 0.75,0.75 0 0 0 -0.324,-0.676 0.75,0.75 0 0 1 -0.293,-0.841 0.75,0.75 0 0 1 0.716,-0.528 0.75,0.75 0 0 1 0.717,0.528 0.75,0.75 0 0 1 -0.293,0.841 0.75,0.75 0 0 0 -0.325,0.676 l 0.075,0.972 a 0.75,0.75 0 0 0 0.748,0.693 h 4.512 a 0.75,0.75 0 0 0 0.742,-0.639 l 0.042,-0.277 a 0.75,0.75 0 0 0 0.006,-0.169 l -0.045,-0.58 a 0.75,0.75 0 0 0 -0.423,-0.619 0.75,0.75 0 0 1 -0.42,-0.768 0.75,0.75 0 0 1 0.595,-0.643 0.75,0.75 0 0 1 0.799,0.36 0.75,0.75 0 0 0 0.649,0.375 h 0.22 v -24 h -0.22 a 0.75,0.75 0 0 0 -0.649,0.375 0.75,0.75 0 0 1 -0.799,0.36 0.75,0.75 0 0 1 -0.595,-0.643 0.75,0.75 0 0 1 0.42,-0.768 0.75,0.75 0 0 0 0.423,-0.619 l 0.045,-0.58 A 0.75,0.75 0 0 0 18.817,5.916 L 18.775,5.639 A 0.75,0.75 0 0 0 18.033,5 H 13.521 A 0.75,0.75 0 0 0 12.773,5.693 L 12.698,6.665 A 0.75,0.75 0 0 0 13.023,7.341 0.75,0.75 0 0 1 13.316,8.182 0.75,0.75 0 0 1 12.599,8.71 0.75,0.75 0 0 1 11.883,8.182 0.75,0.75 0 0 1 12.176,7.341 0.75,0.75 0 0 0 12.5,6.665 L 12.426,5.693 A 0.75,0.75 0 0 0 11.678,5 H 7.165 A 0.75,0.75 0 0 0 6.423,5.639 L 6.382,5.916 A 0.75,0.75 0 0 0 6.376,6.085 L 6.42,6.665 A 0.75,0.75 0 0 0 6.844,7.284 0.75,0.75 0 0 1 7.263,8.052 0.75,0.75 0 0 1 6.668,8.695 0.75,0.75 0 0 1 5.87,8.335 0.75,0.75 0 0 0 5.22,7.96 H 5"
+]]></style>&#10;<path
+   d="m 5,8.06 v 24 h 0.247 a 0.75,0.75 0 0 0 0.649,-0.375 0.75,0.75 0 0 1 0.798,-0.36 0.75,0.75 0 0 1 0.596,0.641 0.75,0.75 0 0 1 -0.417,0.769 0.75,0.75 0 0 0 -0.421,0.621 l -0.05,0.681 a 0.75,0.75 0 0 0 0.006,0.166 l 0.042,0.278 a 0.75,0.75 0 0 0 0.742,0.639 h 4.514 a 0.75,0.75 0 0 0 0.748,-0.696 l 0.078,-1.068 a 0.75,0.75 0 0 0 -0.327,-0.675 0.75,0.75 0 0 1 -0.296,-0.841 0.75,0.75 0 0 1 0.717,-0.53 0.75,0.75 0 0 1 0.717,0.53 0.75,0.75 0 0 1 -0.296,0.841 0.75,0.75 0 0 0 -0.327,0.675 l 0.078,1.068 a 0.75,0.75 0 0 0 0.748,0.696 h 4.514 a 0.75,0.75 0 0 0 0.742,-0.639 l 0.042,-0.278 A 0.75,0.75 0 0 0 18.85,34.037 L 18.8,33.356 a 0.75,0.75 0 0 0 -0.421,-0.621 0.75,0.75 0 0 1 -0.417,-0.769 0.75,0.75 0 0 1 0.596,-0.641 0.75,0.75 0 0 1 0.797,0.36 0.75,0.75 0 0 0 0.65,0.375 h 0.247 v -24 H 20.005 A 0.75,0.75 0 0 0 19.355,8.435 0.75,0.75 0 0 1 18.558,8.795 0.75,0.75 0 0 1 17.962,8.154 0.75,0.75 0 0 1 18.379,7.385 0.75,0.75 0 0 0 18.8,6.764 L 18.85,6.083 A 0.75,0.75 0 0 0 18.844,5.917 L 18.802,5.639 A 0.75,0.75 0 0 0 18.06,5 H 13.546 A 0.75,0.75 0 0 0 12.798,5.696 L 12.72,6.764 A 0.75,0.75 0 0 0 13.047,7.439 0.75,0.75 0 0 1 13.343,8.28 0.75,0.75 0 0 1 12.626,8.81 0.75,0.75 0 0 1 11.909,8.28 0.75,0.75 0 0 1 12.205,7.439 0.75,0.75 0 0 0 12.532,6.764 L 12.454,5.696 A 0.75,0.75 0 0 0 11.706,5 H 7.192 A 0.75,0.75 0 0 0 6.45,5.639 L 6.408,5.917 A 0.75,0.75 0 0 0 6.402,6.083 l 0.05,0.681 A 0.75,0.75 0 0 0 6.873,7.385 0.75,0.75 0 0 1 7.29,8.154 0.75,0.75 0 0 1 6.694,8.795 0.75,0.75 0 0 1 5.896,8.435 0.75,0.75 0 0 0 5.247,8.06 H 5"
    class="s100"
    transform="translate(-84.5025,105.135)"
-   id="path4590" />
-
-</g></g></svg>
+   id="path1" />&#10;&#10;</g></g></svg>

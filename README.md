@@ -3,7 +3,9 @@
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 The official repository of the board game "The Pluvionauts".
-This repository contains all numeric assets of "The Pluvionauts" board game project.
+This repository contains the assets of "The Pluvionauts" board game project (in case you want to build the game yourself and/or edit the design of the game).
+
+For more information about the game and the project, feel free to checkout [the project website](https://pluvionauts.github.io/).
 
 ## Requirements
 

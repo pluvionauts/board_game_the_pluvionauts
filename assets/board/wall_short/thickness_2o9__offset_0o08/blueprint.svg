@@ -1,122 +1,122 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='25.252mm' height='40.120mm' viewBox="0 0 25.252 40.120">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='24.866mm' height='40.280mm' viewBox="0 0 24.866 40.280">
 
 <title>Exported SVG</title>
 
 <style><![CDATA[
 polygon {
 shape-rendering:crispEdges;
-stroke-width:0.040120;
+stroke-width:0.040280;
 }
 .s0 {
 stroke:#000000;
-stroke-width:0.051139;
+stroke-width:0.051481;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s1 {
 stroke:#000000;
-stroke-width:0.051139;
+stroke-width:0.051481;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s2 {
 stroke:#19b219;
-stroke-width:0.051139;
+stroke-width:0.051481;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s3 {
 stroke:#7f4c00;
-stroke-width:0.051139;
+stroke-width:0.051481;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s4 {
 stroke:#00cc00;
-stroke-width:0.051139;
+stroke-width:0.051481;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s5 {
 stroke:#000000;
-stroke-width:0.034093;
+stroke-width:0.034321;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s6 {
 stroke:#ff19ff;
-stroke-width:0.034093;
+stroke-width:0.034321;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s7 {
 stroke:#ff0000;
-stroke-width:0.051139;
+stroke-width:0.051481;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s8 {
 stroke:#ffff00;
-stroke-width:0.051139;
+stroke-width:0.051481;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s9 {
 stroke:#001919;
-stroke-width:0.034093;
+stroke-width:0.034321;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sa {
 stroke:#006666;
-stroke-width:0.034093;
+stroke-width:0.034321;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sb {
 stroke:#00ffff;
-stroke-width:0.102278;
+stroke-width:0.102962;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sc {
 stroke:#ff0000;
-stroke-width:0.272743;
+stroke-width:0.274566;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sd {
 stroke:#191919;
-stroke-width:0.034093;
+stroke-width:0.034321;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .se {
 stroke:#000000;
-stroke-width:0.034093;
+stroke-width:0.034321;
 stroke-linecap:round;
 stroke-linejoin:round;
-stroke-dasharray:0.511,0.511;
+stroke-dasharray:0.515,0.515;
 fill:none;
 }
 .sf {
 stroke:#000000;
-stroke-width:0.102278;
+stroke-width:0.102962;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
@@ -129,6 +129,6 @@ stroke-linejoin:round;
 fill:none;
 }
 ]]></style>
-<path d='M5.000 8.060 L5.000,32.060 L5.247,32.060 A0.750,0.750 0 0,0 5.896,31.685 A0.750,0.750 0 0,1 6.694,31.325 A0.750,0.750 0 0,1 7.290,31.966 A0.750,0.750 0 0,1 6.873,32.735 A0.750,0.750 0 0,0 6.452,33.356 L6.402,34.037 A0.750,0.750 0 0,0 6.408,34.203 L6.450,34.481 A0.750,0.750 0 0,0 7.192,35.120 L11.706,35.120 A0.750,0.750 0 0,0 12.454,34.424 L12.532,33.356 A0.750,0.750 0 0,0 12.205,32.681 A0.750,0.750 0 0,1 11.909,31.840 A0.750,0.750 0 0,1 12.626,31.310 A0.750,0.750 0 0,1 13.343,31.840 A0.750,0.750 0 0,1 13.047,32.681 A0.750,0.750 0 0,0 12.720,33.356 L12.798,34.424 A0.750,0.750 0 0,0 13.546,35.120 L18.060,35.120 A0.750,0.750 0 0,0 18.802,34.481 L18.844,34.203 A0.750,0.750 0 0,0 18.850,34.037 L18.800,33.356 A0.750,0.750 0 0,0 18.379,32.735 A0.750,0.750 0 0,1 17.962,31.966 A0.750,0.750 0 0,1 18.558,31.325 A0.750,0.750 0 0,1 19.355,31.685 A0.750,0.750 0 0,0 20.005,32.060 L20.252,32.060 L20.252,8.060 L20.005,8.060 A0.750,0.750 0 0,0 19.355,8.435 A0.750,0.750 0 0,1 18.558,8.795 A0.750,0.750 0 0,1 17.962,8.154 A0.750,0.750 0 0,1 18.379,7.385 A0.750,0.750 0 0,0 18.800,6.764 L18.850,6.083 A0.750,0.750 0 0,0 18.844,5.917 L18.802,5.639 A0.750,0.750 0 0,0 18.060,5.000 L13.546,5.000 A0.750,0.750 0 0,0 12.798,5.696 L12.720,6.764 A0.750,0.750 0 0,0 13.047,7.439 A0.750,0.750 0 0,1 13.343,8.280 A0.750,0.750 0 0,1 12.626,8.810 A0.750,0.750 0 0,1 11.909,8.280 A0.750,0.750 0 0,1 12.205,7.439 A0.750,0.750 0 0,0 12.532,6.764 L12.454,5.696 A0.750,0.750 0 0,0 11.706,5.000 L7.192,5.000 A0.750,0.750 0 0,0 6.450,5.639 L6.408,5.917 A0.750,0.750 0 0,0 6.402,6.083 L6.452,6.764 A0.750,0.750 0 0,0 6.873,7.385 A0.750,0.750 0 0,1 7.290,8.154 A0.750,0.750 0 0,1 6.694,8.795 A0.750,0.750 0 0,1 5.896,8.435 A0.750,0.750 0 0,0 5.247,8.060 L5.000,8.060 ' class='s100' />
+<path d='M5.000 8.140 L5.000,32.140 L5.054,32.140 A0.750,0.750 0 0,0 5.704,31.765 A0.750,0.750 0 0,1 6.500,31.405 A0.750,0.750 0 0,1 7.097,32.044 A0.750,0.750 0 0,1 6.682,32.814 A0.750,0.750 0 0,0 6.262,33.436 L6.209,34.198 A0.750,0.750 0 0,0 6.215,34.361 L6.257,34.641 A0.750,0.750 0 0,0 6.999,35.280 L11.514,35.280 A0.750,0.750 0 0,0 12.262,34.582 L12.342,33.436 A0.750,0.750 0 0,0 12.014,32.762 A0.750,0.750 0 0,1 11.716,31.921 A0.750,0.750 0 0,1 12.433,31.390 A0.750,0.750 0 0,1 13.150,31.921 A0.750,0.750 0 0,1 12.853,32.762 A0.750,0.750 0 0,0 12.524,33.436 L12.604,34.582 A0.750,0.750 0 0,0 13.352,35.280 L17.867,35.280 A0.750,0.750 0 0,0 18.609,34.641 L18.651,34.361 A0.750,0.750 0 0,0 18.657,34.198 L18.604,33.436 A0.750,0.750 0 0,0 18.184,32.814 A0.750,0.750 0 0,1 17.769,32.044 A0.750,0.750 0 0,1 18.366,31.405 A0.750,0.750 0 0,1 19.163,31.765 A0.750,0.750 0 0,0 19.812,32.140 L19.866,32.140 L19.866,8.140 L19.812,8.140 A0.750,0.750 0 0,0 19.163,8.515 A0.750,0.750 0 0,1 18.366,8.875 A0.750,0.750 0 0,1 17.769,8.236 A0.750,0.750 0 0,1 18.184,7.466 A0.750,0.750 0 0,0 18.604,6.844 L18.657,6.082 A0.750,0.750 0 0,0 18.651,5.919 L18.609,5.639 A0.750,0.750 0 0,0 17.867,5.000 L13.352,5.000 A0.750,0.750 0 0,0 12.604,5.698 L12.524,6.844 A0.750,0.750 0 0,0 12.853,7.518 A0.750,0.750 0 0,1 13.150,8.359 A0.750,0.750 0 0,1 12.433,8.890 A0.750,0.750 0 0,1 11.716,8.359 A0.750,0.750 0 0,1 12.014,7.518 A0.750,0.750 0 0,0 12.342,6.844 L12.262,5.698 A0.750,0.750 0 0,0 11.514,5.000 L6.999,5.000 A0.750,0.750 0 0,0 6.257,5.639 L6.215,5.919 A0.750,0.750 0 0,0 6.209,6.082 L6.262,6.844 A0.750,0.750 0 0,0 6.682,7.466 A0.750,0.750 0 0,1 7.097,8.236 A0.750,0.750 0 0,1 6.500,8.875 A0.750,0.750 0 0,1 5.704,8.515 A0.750,0.750 0 0,0 5.054,8.140 L5.000,8.140 ' class='s100' />
 
 </svg>

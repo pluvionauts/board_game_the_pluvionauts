@@ -11,12 +11,13 @@ Currently, the project heavily relies on:
 
 1. The software [Inkscape](https://inkscape.org/) (ideally the latest version).
 2. [Inkscape Extensions to Manage Image Links](https://github.com/pluvionauts/inkscape_manage_image_links#inkscape-extensions-to-manage-image-links), a set of Inkscape extensions created for the project.
+3. The software [SolveSpace](https://solvespace.com/index.pl) for 2D CAD (optional).
 
 ## Usage
 
 ### Quick Start (Recommended for personal use)
 
-1. Open the SVG files [assets/merge/cumulus/305_x_610/merge_0.svg](assets/merge/cumulus/305_x_610/merge_0.svg) and [assets/merge/cumulus/305_x_610/merge_1.svg](assets/merge/cumulus/305_x_610/merge_1.svg) with Inkscape
+1. Open the SVG files [assets/merge/cumulus/305_x_610/merge_0.svg](assets/merge/cumulus/305_x_610/merge_0.svg) and [assets/merge/cumulus/305_x_610/merge_1.svg](assets/merge/cumulus/305_x_610/merge_1.svg) with Inkscape.
 2. Edit anything as you see fit.
 
 You could directly send the design to your laser-cutting device however the design might be a little heavy as it is.
@@ -37,6 +38,8 @@ If that is the case, use the following steps to lighten the svg file.
 2. Open any SVG file that links to the file you edited, select it and run the **SVG Image Link -> Embeded SVG** extension to update it.
 3. Perform then the **Quick Start** steps to obtain a clean export file.
 
+If one wants to change a **blueprint** file, ideally one would open the corresponding **.slvs** file with **SolveSpace** then edit the design from there and then export the blueprint into a **.svg** file from there.
+
 ## TODO
 
 - [ ] Translate the game in English.
@@ -48,6 +51,6 @@ If that is the case, use the following steps to lighten the svg file.
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 **Important:** Authors of all modifications, corrections or contributions to this repository accepts to release their work under the same license. 
-This do not apply if you fork this repository.
+This does not apply if you fork this repository.
 
 All resources here (images, videos and more) are under the same license.

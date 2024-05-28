@@ -12,7 +12,7 @@ For more information about the game and the project, feel free to checkout [the 
 Currently, the project heavily relies on:
 
 1. The software [Inkscape](https://inkscape.org/) (ideally the latest version).
-2. [Inkscape Extensions to Manage Image Links](https://github.com/pluvionauts/inkscape_manage_image_links#inkscape-extensions-to-manage-image-links), a set of Inkscape extensions created for the project.
+2. [Inkscape Extensions to Manage Image Links](https://github.com/pluvionauts/inkscape_manage_image_links#inkscape-extensions-to-manage-image-links), a set of Inkscape extensions created for the project (optional).
 3. The software [SolveSpace](https://solvespace.com/index.pl) for 2D CAD (optional).
 
 ## Usage

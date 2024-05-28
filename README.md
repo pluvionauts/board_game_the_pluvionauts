@@ -17,6 +17,11 @@ Currently, the project heavily relies on:
 
 ## Usage
 
+In all designs of this repository:
+* **red paths** are intended to be used as **cut paths**
+* **green paths** are intended to be used as paths for **line engraving**
+* **paths filled with black** are intended to be used as paths for **surface engraving**
+
 ### Quick Start (Recommended for personal use)
 
 1. Open the SVG files [assets/merge/cumulus/305_x_610/merge_0.svg](assets/merge/cumulus/305_x_610/merge_0.svg) and [assets/merge/cumulus/305_x_610/merge_1.svg](assets/merge/cumulus/305_x_610/merge_1.svg) with Inkscape.
